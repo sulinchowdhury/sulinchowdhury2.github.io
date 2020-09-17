@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a PhD candidate in the Department of Agricultural and Applied Economics at the University of Wisconsin-Madison.  
+Welcome! I am a PhD candidate in the Department of Agricultural and Applied Economics at the University of Wisconsin-Madison. You can download my CV here.
 
 My research lies in the fields of development economics, resource economics, and political economy. I am interested in institutions of natural resource governance, industrialization and industrial policies, and the effects of resource booms and busts on governments, firms, and workers. 
 
