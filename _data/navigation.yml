@@ -1,14 +1,14 @@
 # main links links
 main:
   - title: "Research"
-    url: /publications/
+    url: /_publications/
 
   - title: "CV"
-    url: /cv2/    
+    url: /_cv2/    
 
   - title: "Data and Code"
-    url: /datacode/    
+    url: /_datacode/    
     
   - title: "Contact"
-    url: /contact/
+    url: /_contact/
        
