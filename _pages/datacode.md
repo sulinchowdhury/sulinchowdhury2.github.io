@@ -45,7 +45,8 @@ Brazil's Supreme Electoral Tribunal (TSE) publishes data on all federal, state, 
 [Oil Sector Data](http://www.anp.gov.br/dados-abertos-anp)<br/> 
 Brazil's National Oil Agency (ANP) makes available a huge variety of data on the country's oil sector, including royalties and production. <br/> 
 
+<br/> 
 # **Other Resources**<br/> 
 
-**Create beautiful watercolor streetmaps with Open Street Map and ggplot2**
+**Create beautiful watercolor streetmaps with Open Street Map and ggplot2**<br/> 
 [R Code and PowerPoint Template](https://github.com/ekatovich/Streetmaps)
