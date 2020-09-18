@@ -4,8 +4,8 @@ permalink: /datacode/
 author_profile: true
 ---
 
-**Brazilian Data Resources**
-I work with a wide range of administrative datasets from Brazil. I will post here useful data and cleaning scripts. Please feel free to make use of these resources, or reach out with questions, comments or suggestions through [e-mail](ekatovich@wisc.edu) or [Github](https://github.com/ekatovich)! <br/> 
+**Brazilian Data Resources**<br/> 
+I work with a wide range of administrative datasets from Brazil. I will post here useful data and cleaning scripts. Please feel free to make use of these resources, or reach out with questions, comments or suggestions through e-mail (ekatovich@wisc.edu) or [Github](https://github.com/ekatovich)! <br/> 
 
 
 Balanced Monthly Panel of ANP Oil Royalties and Special Participation Transfers to Municipalities (1999-2017) <br/> 
