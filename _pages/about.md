@@ -27,3 +27,13 @@ In my current work, I use applied econometrics, big data, and natural experiment
  </tr>
 </table>
 
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">Title</b></td>
+    <td><b style="font-size:30px">Title 2</b></td>
+ </tr>
+ <tr>
+    <td>Local Politics and Deforestation: Did a ban on corporate donations change environmental governance in the Amazon?<br/></td>
+    <td>![alt-text](files/elections2.PNG){:height="350px" width="350px"}<br/></td>
+ </tr>
+</table>
