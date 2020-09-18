@@ -11,9 +11,9 @@ The Presource Curse: Does Anticipation and Disappointment after Oil Discoveries 
 
 Can Natural Resources Promote Industrialization? Firm-Level Evidence from an Industrial Policy in Brazil
 
-Are Workers Cursed by Resources? Effects of Oil Boom and Bust on Earnings, Education, and Inequality  (_with Dominic Parker, and Steven Poehlekke_)
+Are Workers Cursed by Resources? Effects of Oil Boom and Bust on Earnings, Education, and Inequality  <br/> (_with Dominic Parker, and Steven Poehlekke_)
 
-Corporate Donations and Environmental Governance: Evidence from a Campaign Finance Reform in Brazil  (_with Fanny Moffette_)
+Corporate Donations and Environmental Governance: Evidence from a Campaign Finance Reform in Brazil <br/> (_with Fanny Moffette_)
 
 
 **Publications**
