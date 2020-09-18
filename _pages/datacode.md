@@ -5,14 +5,14 @@ author_profile: true
 ---
 
 **Brazilian Data Resources**
-I work with a wide range of administrative datasets from Brazil. I will post here useful data and cleaning scripts. Please feel free to make use of these resources, or reach out with questions, comments or suggestions through [e-mail] or [Github](https://github.com/ekatovich)! <br/> 
+I work with a wide range of administrative datasets from Brazil. I will post here useful data and cleaning scripts. Please feel free to make use of these resources, or reach out with questions, comments or suggestions through [e-mail](ekatovich@wisc.edu) or [Github](https://github.com/ekatovich)! <br/> 
 
 
 Balanced Monthly Panel of ANP Oil Royalties and Special Participation Transfers to Municipalities (1999-2017) <br/> 
 
-	[[Raw Data (.csv)  and Stata Code](https://github.com/ekatovich/Royalties_and_SpecialParticipations)]   <br/> 
+	[[Raw Data (.csv)  and Stata Code](http://github.com/ekatovich/Royalties_and_SpecialParticipations)]   <br/> 
 
-	[[Royalties and Special Participations Monthly Panel (.dta)](https://github.com/ekatovich/Royalties_and_SpecialParticipations/blob/master/Data/Analysis/Royalties_and_SpecialPart_AnnualPanel_FINAL.dta)] <br/> 
+	[[Royalties and Special Participations Monthly Panel (.dta)](http://github.com/ekatovich/Royalties_and_SpecialParticipations/blob/master/Data/Analysis/Royalties_and_SpecialPart_AnnualPanel_FINAL.dta)] <br/> 
 
 
 
