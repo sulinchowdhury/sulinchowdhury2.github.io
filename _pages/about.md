@@ -8,7 +8,7 @@ author_profile: true
 
 Welcome! I am a PhD Candidate in the Department of Agricultural and Applied Economics at the University of Wisconsin-Madison. You can download my CV [here](http://ekatovich.github.io/files/CV_2020_09_17.pdf).
 
-Previously, I was a [Fulbright Research Fellow](https://us.fulbrightonline.org/#&panel1-2) at the Universidade Estadual de Campinas in São Paulo, Brazil.
+Previously, I was a Fulbright Research Fellow at [Unicamp](https://www.eco.unicamp.br/nea/) in São Paulo, Brazil.
 
 My research lies in the fields of development economics, resource economics, and political economy. I am interested in institutions of natural resource governance, industrialization and industrial policies, and the effects of resource booms and busts on governments, firms, and workers. 
 
