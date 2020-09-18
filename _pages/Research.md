@@ -25,11 +25,7 @@ Labor productivity is a crucial long-run determinant of real wages. Nonetheless,
 </details> 
 Erik S. Katovich and Alexandre Gori Maia<br/>
 Nova Economia, Vol. 28, No. 1, pp. 7-38 (2018)<br/>
-[[PDF](/files/Katovich_Maia_NovaEconomia.pdf){:target="_blank"}]
-|[PDF](/files/Katovich_Maia_NovaEconomia.pdf){:target="_blank"})|
-
-
-[[Published Version](https://doi.org/10.1590/0103-6351/3943){:target="_blank"}] 
+[[PDF](/files/Katovich_Maia_NovaEconomia.pdf){:target="_blank"}] [[Published Version](https://doi.org/10.1590/0103-6351/3943){:target="_blank"}] <br/>
 
 [Are GMO Policies "Trade Related"? Empirical Analysis of Latin America](https://doi.org/10.1093/aepp/ppw021)<br/>
 Pamela J. Smith and Erik S. Katovich<br/>
