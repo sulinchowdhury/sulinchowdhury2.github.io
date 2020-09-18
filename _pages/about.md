@@ -12,6 +12,9 @@ My research lies in the fields of development economics, resource economics, and
 
 In my current work, I use applied econometrics, big data, and natural experiments to understand how local governments respond to oil discoveries, how an oil boom created spillovers across manufacturing sectors, and how corporate donations drive deforestation in the Amazon.
 
+**Selected Research Topics**
 
-Here is a gif: ![alt-text](files/discoveries_by_year3.gif){:height="250px" width="250px"}
+The "Presource Curse":  How do local governments react to the announcement of oil discoveries? What happens when their expectations of oil riches are disappointed?
+ ![alt-text](files/discoveries_by_year3.gif){:height="400px" width="400px"}
+
 
