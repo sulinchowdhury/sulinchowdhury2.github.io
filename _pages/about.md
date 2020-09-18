@@ -21,7 +21,8 @@ In my current work, I use applied econometrics, big data, and natural experiment
 **Selected Research Topics**
 
 The "Presource Curse":  How do local governments react to the announcement of oil discoveries? What happens when their expectations of oil riches are disappointed?
- ![alt-text](files/discoveries_by_year3.gif){:height="400px" width="400px"}
+ ![alt-text](files/discoveries_by_year3.gif){:height="350px" width="350px"}
 
 
-
+Local Politics and Deforestation: Did a ban on corporate donations change environmental governance in the Amazon?
+![alt-text](files/campaign_donations.jpeg){:height="350px" width="350px"}
