@@ -21,7 +21,9 @@ In my current work, I use applied econometrics, big data, and natural experiment
 The "Presource Curse":  How do local governments react to the announcement of oil discoveries? What happens when expectations of oil riches are disappointed?
  ![alt-text](files/discoveries_by_year3.gif){:height="350px" width="350px"}<br/>
 
-
+Resource-Driven Industrialization? What are the effects of a volatile oil sector on upstream manufacturing? 
+ ![alt-text](files/discoveries_by_year3.gif){:height="350px" width="350px"}<br/>
+ 
 Local Politics and Deforestation: Did a ban on corporate donations change environmental governance in the Amazon?<br/>
 ![](files/elections2.PNG){:height="350px" width="350px"}<br/>
 
