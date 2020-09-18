@@ -4,7 +4,7 @@ main:
     url: /Research/
 
   - title: "CV[pdf]"
-    url: /files/CV_2020_09_17.pdf/
+    url: http://ekatovich.github.io/files/CV_2020_09_17.pdf
 
   - title: "Data and Code"
     url: /datacode/    
