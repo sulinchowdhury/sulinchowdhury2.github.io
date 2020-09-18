@@ -4,8 +4,6 @@ permalink: /Research/
 author_profile: true
 ---
 
-<br/>
-
 # **Work in Progress**<br/>
 
 The Presource Curse: Does Anticipation and Disappointment after Oil Discoveries Undermine Local Governance in Brazil?
