@@ -18,19 +18,12 @@ In my current work, I use applied econometrics, big data, and natural experiment
 
 <table border="0">
  <tr>
-    <td><b style="font-size:30px">Title</b></td>
-    <td><b style="font-size:30px">Title 2</b></td>
- </tr>
- <tr>
     <td>The "Presource Curse":  How do local governments react to the announcement of oil discoveries? What happens when their expectations of oil riches are disappointed?</td>
     <td>![alt-text](files/discoveries_by_year3.gif){:height="350px" width="350px"}<br/></td>
  </tr>
 </table>
 
 <table border="0">
- <tr>
-    <td><b style="font-size:30px">Title</b></td>
-    <td><b style="font-size:30px">Title 2</b></td>
  </tr>
  <tr>
     <td>Local Politics and Deforestation: Did a ban on corporate donations change environmental governance in the Amazon?<br/></td>
