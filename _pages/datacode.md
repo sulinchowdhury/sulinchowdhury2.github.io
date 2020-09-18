@@ -8,7 +8,7 @@ author_profile: true
 I work with a wide range of administrative datasets from Brazil. I will post here useful data and cleaning scripts. Please feel free to make use of these resources, or reach out with questions, comments or suggestions through e-mail (ekatovich@wisc.edu) or [Github](https://github.com/ekatovich)! <br/> 
 
 
-Balanced Monthly Panel of ANP Oil Royalties and Special Participation Transfers to Municipalities (1999-2017) <br/> 
+**Balanced Monthly Panel of ANP Oil Royalties and Special Participation Transfers to Municipalities (1999-2017)** <br/> 
 
 	[[Raw Data (.csv)  and Stata Code](http://github.com/ekatovich/Royalties_and_SpecialParticipations)]   <br/> 
 
@@ -16,7 +16,7 @@ Balanced Monthly Panel of ANP Oil Royalties and Special Participation Transfers 
 
 
 
-Municipality Name to Municipality/Microregion/Mesoregion/UF Code Crosswalk <br/> 
+**Municipality Name to Municipality/Microregion/Mesoregion/UF Code Crosswalk** <br/> 
 
 	[[Crosswalk (Stata Code)](https://github.com/ekatovich/Municipality_Name_ID_crosswalk/tree/master)] <br/> 
 
@@ -39,8 +39,13 @@ The geobr package in R offers an easy way to download official Brazilian shapefi
 [IPEA Data](http://www.ipeadata.gov.br/Default.aspx) <br/> 
 IPEA makes available a large number of macroeconomic, social, and regional panel datasets for Brazil, many at the municipal level.  <br/> 
 
-[Elections and Donation Data](http://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1/repositorio-de-dados-eleitorais)
+[Elections and Donation Data](http://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1/repositorio-de-dados-eleitorais)<br/> 
 Brazil's Supreme Electoral Tribunal (TSE) publishes data on all federal, state, and municipal election candidates, parties, and donors, with some series going back to 1945.<br/> 
 
-[Oil Sector Data](http://www.anp.gov.br/dados-abertos-anp)
-Brazil's National Oil Agency (ANP) makes available a huge variety of data on the country's oil sector, including royalties and production. 
+[Oil Sector Data](http://www.anp.gov.br/dados-abertos-anp)<br/> 
+Brazil's National Oil Agency (ANP) makes available a huge variety of data on the country's oil sector, including royalties and production. <br/> 
+
+# **Other Resources**<br/> 
+
+**Create beautiful watercolor streetmaps with Open Street Map and ggplot2**
+[R Code and PowerPoint Template](https://github.com/ekatovich/Streetmaps)
