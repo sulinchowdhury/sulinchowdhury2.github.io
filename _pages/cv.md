@@ -1,12 +1,8 @@
 ---
-layout: archive
+permalink: /CV2/
 title: "CV"
-permalink: /cv2/
+excerpt: "CV"
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
-
-Download the latest version of my CV [here](/files/CV_2020_09_17).
+Download the latest version of my CV [here](ekatovich.github.io/files/CV_2020_09_17.pdf).
