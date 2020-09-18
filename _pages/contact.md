@@ -1,3 +1,6 @@
+title: "Contact Me"
+permalink: /contact/
+
 Email: ekatovich@wisc.edu
 
 Address: University of Wisconsin-Madison
