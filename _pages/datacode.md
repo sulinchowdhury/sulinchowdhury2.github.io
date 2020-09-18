@@ -38,3 +38,9 @@ The geobr package in R offers an easy way to download official Brazilian shapefi
 
 [IPEA Data](http://www.ipeadata.gov.br/Default.aspx) <br/> 
 IPEA makes available a large number of macroeconomic, social, and regional panel datasets for Brazil, many at the municipal level.  <br/> 
+
+[Elections and Donation Data](http://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1/repositorio-de-dados-eleitorais)
+Brazil's Supreme Electoral Tribunal (TSE) publishes data on all federal, state, and municipal election candidates, parties, and donors, with some series going back to 1945.<br/> 
+
+[Oil Sector Data](http://www.anp.gov.br/dados-abertos-anp)
+Brazil's National Oil Agency (ANP) makes available a huge variety of data on the country's oil sector, including royalties and production. 
