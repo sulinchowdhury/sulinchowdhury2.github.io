@@ -19,11 +19,11 @@ In my current work, I use applied econometrics, big data, and natural experiment
 # **Selected Research Topics**
 
 The "Presource Curse":  How do local governments react to the announcement of oil discoveries? What happens when expectations of oil riches are disappointed?
- ![alt-text](files/discoveries_by_year3.gif){:height="350px" width="350px"}<br/>
+ ![alt-text](files/discoveries_by_year3.gif){:height="350px" width="350px" align="center"}<br/>
 
 Resource-Driven Industrialization? What are the effects of a volatile oil sector on upstream manufacturing? <br/>
- ![alt-text](files/coastal_treatment_map6.gif){:height="350px" width="350px"}<br/>
+ ![alt-text](files/coastal_treatment_map6.gif){:height="350px" width="350px" align="center"}<br/>
  
 Local Politics and Deforestation: Did a ban on corporate donations change environmental governance in the Amazon?<br/>
-![](files/elections2.PNG){:height="350px" width="350px"}<br/>
+![](files/elections2.PNG){:height="350px" width="350px" align="center"}<br/>
 
