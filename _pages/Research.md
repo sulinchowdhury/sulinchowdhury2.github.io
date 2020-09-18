@@ -18,11 +18,20 @@ Corporate Donations and Environmental Governance: Evidence from a Campaign Finan
 
 **Publications**
 
-Katovich, Erik S. and Alexandre Gori Maia, The Relation Between Labor Productivity and Wages in Brazil: A Sectoral Analysis. Nova Economia, Vol. 28, No. 1, pg. 7-38 (2018).
+[The Relation Between Labor Productivity and Wages in Brazil: A Sectoral Analysis](https://doi.org/10.1590/0103-6351/3943)
+Erik S. Katovich and Alexandre Gori Maia
+Nova Economia, Vol. 28, No. 1, pp. 7-38 (2018)
+[PDF](http://ekatovich.github.io/files/Katovich_Maia_NovaEconomia.pdf)
 
-Smith, Pamela J. and Erik S. Katovich. Are GMO Policies "Trade Related"? Empirical Analysis of Latin America. Applied Economic Perspectives and Policy, Vol. 39, No. 2, pg. 286-312 (2017).
+[Are GMO Policies "Trade Related"? Empirical Analysis of Latin America](https://doi.org/10.1093/aepp/ppw021)
+Pamela J. Smith and Erik S. Katovich
+Applied Economic Perspectives and Policy, Vol. 39, No. 2, pp. 286-312 (2017)
 
 
 **Working Papers**
 
-Katovich, Erik S., Andrew W. Feist, Karl Hughes, and Kai Mausch, What do we really know about the impacts of improved grain legumes and dryland cereals: A critical review of 18 impact studies, ICRAF Working Paper Series, No. 295, World Agroforestry-Nairobi (2019).
+[What do we really know about the impacts of improved grain legumes and dryland cereals: A critical review of 18 impact studies](10.5716/WP19006.PDF)
+Erik S. Katovich, Andrew W. Feist, Karl Hughes, Kai Mausch, and Michael Hauser
+ICRAF Working Paper Series, No. 295, World Agroforestry-Nairobi (2019).
+
+
