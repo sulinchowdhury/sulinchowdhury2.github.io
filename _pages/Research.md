@@ -22,7 +22,6 @@ Corporate Donations and Environmental Governance: Evidence from a Campaign Finan
 <details>
 <summary>Abstract</summary>
 Labor productivity is a crucial long-run determinant of real wages. Nonetheless, wage and productivity dynamics often diverge in practice due to a range of economic and institutional factors. This study analyzes the relation between the dynamics of labor productivity and wages in Brazil from 1996 to 2014, and adopts a sectoral perspective to account for divergent trends among economic sectors. Analyses are based on pooled data drawn from the National Accounts and the Pesquisa Nacional por Amostra de Domicílios, and hierarchical data models are estimated to assess the impacts of state- and sector-level factors on individuals’ wages. Results indicate that productivity is significantly positively associated with wage levels for all economic sectors, but that institutional factors such as labor formalization and minimum wage exert equally significant impacts, suggesting that wage growth over the 1996-2014 period was as much the result of institutional changes as of transformation of Brazil’s productive structure.<br/>
-**Keywords: labor market; labor productivity; sectoral structure; economic development; wage determinants**<br/>
 </details> 
 Erik S. Katovich and Alexandre Gori Maia<br/>
 Nova Economia, Vol. 28, No. 1, pp. 7-38 (2018)<br/>
