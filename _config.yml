@@ -71,15 +71,6 @@ analytics:
 author:
   name             : "Erik Katovich"
   avatar           : "Erik_headshot.jpeg"
-  img {
-    max-width: 200px;
-    border-radius: 0%;
-
-    @include breakpoint($large) {
-      padding: 0px;
-      border: 0px solid $border-color;
-    }
-  }
   bio              : "PhD Candidate in Development Economics at UW-Madison"
   location         : "Madison, WI"
   googlescholar    : "https://scholar.google.com/citations?user=W8I9WawAAAAJ&hl=en"
