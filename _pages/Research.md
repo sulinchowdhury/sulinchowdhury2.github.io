@@ -4,7 +4,6 @@ title: ""
 permalink: /Research/
 author_profile: true
 ---
-
 # **Work in Progress**<br/>
 
 The Presource Curse: Does Anticipation and Disappointment after Oil Discoveries Undermine Local Governance in Brazil?
@@ -15,7 +14,7 @@ Are Workers Cursed by Resources? Effects of Oil Boom and Bust on Earnings, Educa
 
 Corporate Donations and Environmental Governance: Evidence from a Campaign Finance Reform in Brazil <br/> (_with [Fanny Moffette](https://fannymoffette.com/)_)
 
-
+<br/>
 # **Publications**<br/>
 
 [The Relation Between Labor Productivity and Wages in Brazil: A Sectoral Analysis](https://doi.org/10.1590/0103-6351/3943)
@@ -33,7 +32,7 @@ This paper empirically examines whether GMO policies are “trade related” for
 [Pamela J. Smith](https://www.apec.umn.edu/people/pamela-smith) and Erik S. Katovich<br/>
 Applied Economic Perspectives and Policy, Vol. 39, No. 2, pp. 286-312 (2017)
 
-
+<br/>
 # **Working Papers**<br/>
 
 [What do we really know about the impacts of improved grain legumes and dryland cereals: A critical review of 18 impact studies](10.5716/WP19006.PDF)<br/>
