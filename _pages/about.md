@@ -16,7 +16,7 @@ In my current work, I use applied econometrics, big data, and natural experiment
 
 # **Selected Research Topics**
 
-The "Presource Curse":  How do local governments react to the announcement of oil discoveries? What happens when their expectations of oil riches are disappointed?
+The "Presource Curse":  How do local governments react to the announcement of oil discoveries? What happens when expectations of oil riches are disappointed?
  ![alt-text](files/discoveries_by_year3.gif){:height="350px" width="350px"}<br/>
 
 
