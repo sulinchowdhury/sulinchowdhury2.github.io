@@ -1,5 +1,10 @@
-title: "Contact Me"
-permalink: /contact/
+-permalink: /contact/
+-title: "Contact Me"
++title: "Contact me"
+ author_profile: true
+ redirect_from: 
+   - /about/
+   - /about.html
 
 Email: ekatovich@wisc.edu
 
