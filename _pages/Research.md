@@ -19,6 +19,10 @@ Corporate Donations and Environmental Governance: Evidence from a Campaign Finan
 **Publications**
 
 [The Relation Between Labor Productivity and Wages in Brazil: A Sectoral Analysis](https://doi.org/10.1590/0103-6351/3943)<br/>
+<details>
+<summary>Example</summary>
+This is a dropdown with text!
+</details> 
 Erik S. Katovich and Alexandre Gori Maia<br/>
 Nova Economia, Vol. 28, No. 1, pp. 7-38 (2018)<br/>
 [[PDF](/files/Katovich_Maia_NovaEconomia.pdf){:target="_blank"}] [[Published Version](https://doi.org/10.1590/0103-6351/3943){:target="_blank"}] 
