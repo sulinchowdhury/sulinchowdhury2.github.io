@@ -25,4 +25,4 @@ The "Presource Curse":  How do local governments react to the announcement of oi
 
 
 Local Politics and Deforestation: Did a ban on corporate donations change environmental governance in the Amazon?
-![alt-text](files/campaign_donations.jpeg){:height="350px" width="350px"}
+![alt-text](files/elections2.png){:height="350px" width="350px"}
