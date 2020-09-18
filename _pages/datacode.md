@@ -4,21 +4,21 @@ permalink: /datacode/
 author_profile: true
 ---
 <br/>
-**Brazilian Data Resources**<br/> 
+# **Brazilian Data Resources**<br/> 
 I work with a wide range of administrative datasets from Brazil. I will post here useful data and cleaning scripts. Please feel free to make use of these resources, or reach out with questions, comments or suggestions through e-mail (ekatovich@wisc.edu) or [Github](https://github.com/ekatovich)! <br/> 
 
 
 **Balanced Monthly Panel of ANP Oil Royalties and Special Participation Transfers to Municipalities (1999-2017)** <br/> 
 
-	[Raw Data (.csv)  and Stata Code](http://github.com/ekatovich/Royalties_and_SpecialParticipations)  <br/> 
+	[Raw Data (.csv)  and Stata Code](https://github.com/ekatovich/Royalties_and_SpecialParticipations)  <br/> 
 
-	[Royalties and Special Participations Monthly Panel (.dta)](http://github.com/ekatovich/Royalties_and_SpecialParticipations/blob/master/Data/Analysis/Royalties_and_SpecialPart_AnnualPanel_FINAL.dta) <br/> 
+	[Royalties and Special Participations Monthly Panel (.dta)](https://github.com/ekatovich/Royalties_and_SpecialParticipations/blob/master/Data/Analysis/Royalties_and_SpecialPart_AnnualPanel_FINAL.dta) <br/> 
 
 
 
 **Municipality Name to Municipality/Microregion/Mesoregion/UF Code Crosswalk** <br/> 
 
-	[Crosswalk (Stata Code)](https://github.com/ekatovich/Municipality_Name_ID_crosswalk/tree/master)<br/> 
+	[Crosswalk (Stata Code)](https://github.com/ekatovich/Municipality_Name_ID_crosswalk)<br/> 
 
 	[Brazilian Geographical Units Data (Municipality, Microregion, Mesoregion, and UF)](https://github.com/ekatovich/Municipality_Name_ID_crosswalk/blob/master/Raw_Brazil_GeographicalUnits.csv) <br/> 
 
