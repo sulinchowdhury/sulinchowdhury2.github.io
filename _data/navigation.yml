@@ -3,8 +3,8 @@ main:
   - title: "Research"
     url: /Research/
 
-  - title: "CV"
-    url: /CV2/    
+  - title: "CV[pdf]"
+    url: /files/CV_2020_09_17/    
 
   - title: "Data and Code"
     url: /datacode/    
