@@ -21,7 +21,7 @@ Corporate Donations and Environmental Governance: Evidence from a Campaign Finan
 [The Relation Between Labor Productivity and Wages in Brazil: A Sectoral Analysis](https://doi.org/10.1590/0103-6351/3943)
 Erik S. Katovich and Alexandre Gori Maia
 Nova Economia, Vol. 28, No. 1, pp. 7-38 (2018)
-[PDF](http://ekatovich.github.io/files/Katovich_Maia_NovaEconomia.pdf)
+<a href="/files/Katovich_Maia_NovaEconomia" download>PDF</a>
 
 [Are GMO Policies "Trade Related"? Empirical Analysis of Latin America](https://doi.org/10.1093/aepp/ppw021)
 Pamela J. Smith and Erik S. Katovich
