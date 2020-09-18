@@ -13,5 +13,5 @@ My research lies in the fields of development economics, resource economics, and
 In my current work, I use applied econometrics, big data, and natural experiments to understand how local governments respond to oil discoveries, how an oil boom created spillovers across manufacturing sectors, and how corporate donations drive deforestation in the Amazon.
 
 
-Here is a gif: ![alt-text](files/discoveries_by_year3.gif)
-<img src="files/discoveries_by_year3.gif" width="100" height="100" />
+Here is a gif: ![alt-text](files/discoveries_by_year3.gif){:height="100px" width="100px"}
+
