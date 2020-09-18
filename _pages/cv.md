@@ -5,5 +5,5 @@ excerpt: "CV"
 author_profile: true
 ---
 
-Download the latest version of my CV here:
+Download the latest version of my CV here.
 
