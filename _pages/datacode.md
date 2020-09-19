@@ -5,7 +5,7 @@ author_profile: true
 ---
 <br/>
 # **Brazilian Data Resources**<br/> 
-I work with a wide range of administrative datasets from Brazil. I will post here useful data and cleaning scripts. Please feel free to make use of these resources, or reach out with questions, comments or suggestions through e-mail (ekatovich@wisc.edu) or [Github](https://github.com/ekatovich)! <br/> 
+I work with a wide range of administrative datasets from Brazil. I will post here useful data and cleaning scripts. Please feel free to make use of these resources, or reach out with questions, comments or suggestions through e-mail (ekatovich@wisc.edu) or [Github](https://github.com/ekatovich). <br/> 
 
 
 **Balanced Monthly Panel of ANP Oil Royalties and Special Participation Transfers to Municipalities (1999-2017)** <br/> 
@@ -44,6 +44,9 @@ Brazil's Supreme Electoral Tribunal (TSE) publishes data on all federal, state, 
 
 [Oil Sector Data](http://www.anp.gov.br/dados-abertos-anp)<br/> 
 Brazil's National Oil Agency (ANP) makes available a huge variety of data on the country's oil sector, including royalties and production. <br/> 
+
+[FOIA (Lei de Acesso à Informação)](https://sistema.ouvidorias.gov.br/publico/Manifestacao/SelecionarTipoManifestacao.aspx)<br/> 
+Brazil's Information Access Law requires public agencies to respond to requests for public documents or data within 10 days. The system, which recently migrated from e-SIC to Fala.BR, works well. Simply create an account and submit your request (very clear and specific) to the appropriate institution. <br/> 
 
 <br/> 
 # **Other Resources**<br/> 
