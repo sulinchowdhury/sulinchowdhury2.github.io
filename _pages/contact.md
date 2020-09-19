@@ -12,7 +12,4 @@ Address: University of Wisconsin-Madison<br/>
          305 Taylor Hall<br/>
          Madison, WI 53706-1513
          
-linkdin- https://www.linkedin.com/in/erik-katovich-a20994160/
-
-researchgate- https://www.researchgate.net/profile/Erik_Katovich
 
