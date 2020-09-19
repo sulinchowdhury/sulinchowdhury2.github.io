@@ -8,15 +8,16 @@ author_profile: true
 I work with a wide range of administrative datasets from Brazil. I will post here useful data and cleaning scripts. Please feel free to make use of these resources, or reach out with questions, comments or suggestions through e-mail (ekatovich@wisc.edu) or [Github](https://github.com/ekatovich). <br/> 
 
 
-**Balanced Monthly Panel of ANP Oil Royalties and Special Participation Transfers to Municipalities (1999-2017)** <br/> 
-
+**ANP Oil Royalties and Special Participation Transfers to Municipalities (1999-2017)** <br/> 
+This repository contains raw data and Stata code to build a balanced monthly panel of royalty and special participation transfers to Brazilian municipalities from 1999-2017.<br/> 
 [[Raw Data and Stata Code](https://github.com/ekatovich/Royalties_and_SpecialParticipations)]  [[Royalties and Special Participations Monthly Panel (.dta)](https://github.com/ekatovich/Royalties_and_SpecialParticipations/blob/master/Data/Analysis/Royalties_and_SpecialPart_AnnualPanel_FINAL.dta)] <br/> 
 
 
 
 **Municipality Name to Municipality/Microregion/Mesoregion/UF Code Crosswalk** <br/> 
-
-[[Crosswalk (Stata)](https://github.com/ekatovich/Municipality_Name_ID_crosswalk)]  [[Brazilian Geographical Units Data (Municipality, Microregion, Mesoregion, and UF)](https://github.com/ekatovich/Municipality_Name_ID_crosswalk/blob/master/Raw_Brazil_GeographicalUnits.csv)] <br/> 
+This repository contains raw data and Stata code to attach Brazilian municipality names to 6 and 7 digit IBGE numeric municipality identifiers, as well as microregion, macroregion, and state identifiers. This facilitates merges with datasets that report only municipality names. <br/> 
+[[Crosswalk (Stata)](https://github.com/ekatovich/Municipality_Name_ID_crosswalk)]  
+[[Brazilian Geographical Units Data (Municipality, Microregion, Mesoregion, and UF)](https://github.com/ekatovich/Municipality_Name_ID_crosswalk/blob/master/Raw_Brazil_GeographicalUnits.csv)] <br/> 
 
 
 
