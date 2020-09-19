@@ -10,17 +10,17 @@ I work with a wide range of administrative datasets from Brazil. I will post her
 
 **Balanced Monthly Panel of ANP Oil Royalties and Special Participation Transfers to Municipalities (1999-2017)** <br/> 
 
-	[Raw Data (.csv)  and Stata Code](https://github.com/ekatovich/Royalties_and_SpecialParticipations)  <br/> 
+[Raw Data and Stata Code](https://github.com/ekatovich/Royalties_and_SpecialParticipations) <br/> 
 
-	[Royalties and Special Participations Monthly Panel (.dta)](https://github.com/ekatovich/Royalties_and_SpecialParticipations/blob/master/Data/Analysis/Royalties_and_SpecialPart_AnnualPanel_FINAL.dta) <br/> 
+[Royalties and Special Participations Monthly Panel (.dta)] (https://github.com/ekatovich/Royalties_and_SpecialParticipations/blob/master/Data/Analysis/Royalties_and_SpecialPart_AnnualPanel_FINAL.dta) <br/> 
 
 
 
 **Municipality Name to Municipality/Microregion/Mesoregion/UF Code Crosswalk** <br/> 
 
-	[Crosswalk (Stata Code)](https://github.com/ekatovich/Municipality_Name_ID_crosswalk)<br/> 
+[Crosswalk (Stata)](https://github.com/ekatovich/Municipality_Name_ID_crosswalk)<br/> 
 
-	[Brazilian Geographical Units Data (Municipality, Microregion, Mesoregion, and UF)](https://github.com/ekatovich/Municipality_Name_ID_crosswalk/blob/master/Raw_Brazil_GeographicalUnits.csv) <br/> 
+[Brazilian Geographical Units Data (Municipality, Microregion, Mesoregion, and UF)](https://github.com/ekatovich/Municipality_Name_ID_crosswalk/blob/master/Raw_Brazil_GeographicalUnits.csv) <br/> 
 
 
 
