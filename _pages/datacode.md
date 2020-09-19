@@ -12,7 +12,7 @@ I work with a wide range of administrative datasets from Brazil. I will post her
 
 [Raw Data and Stata Code](https://github.com/ekatovich/Royalties_and_SpecialParticipations) <br/> 
 
-[Royalties and Special Participations Monthly Panel (.dta)] (https://github.com/ekatovich/Royalties_and_SpecialParticipations/blob/master/Data/Analysis/Royalties_and_SpecialPart_AnnualPanel_FINAL.dta) <br/> 
+[Royalties and Special Participations Monthly Panel (.dta)](https://github.com/ekatovich/Royalties_and_SpecialParticipations/blob/master/Data/Analysis/Royalties_and_SpecialPart_AnnualPanel_FINAL.dta) <br/> 
 
 
 
