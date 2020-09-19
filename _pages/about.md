@@ -25,7 +25,7 @@ The "Presource Curse":  How do local governments react to the announcement of oi
 <br/>
 <br/>
 
-<img align="right" width="320" height="320" src="files/coastal_treatment_map6.gif">
+<img align="right" width="320" height="320" src="files/refineries_impact.PNG">
  
 <br/><br/>
 
