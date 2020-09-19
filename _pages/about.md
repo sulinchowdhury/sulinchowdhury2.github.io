@@ -17,17 +17,20 @@ In my current work, I use applied econometrics, big data, and natural experiment
 <br/><br/><br/><br/>
 
 # **Selected Research Topics**
-<img align="right" width="350" height="350" src="files/discoveries_by_year3.gif">
+<img align="right" width="340" height="340" src="files/discoveries_by_year3.gif">
  
  <br/><br/>
  
 The "Presource Curse":  How do local governments react to the announcement of oil discoveries? What happens when expectations of oil riches are disappointed?<br/>
-<img align="right" width="350" height="350" src="files/coastal_treatment_map6.gif">
+
+
+<img align="right" width="320" height="320" src="files/coastal_treatment_map6.gif">
  
 <br/><br/>
 
 Resource-Driven Industrialization? What are the effects of a volatile oil sector on upstream manufacturing? <br/>
-<img align="right" width="350" height="350" src="files/elections2.PNG">
+
+<img align="right" width="340" height="340" src="files/elections2.PNG">
 
  <br/> <br/>
  
