@@ -30,11 +30,11 @@ The "Presource Curse":  How do local governments react to the announcement of oi
  <br/> <br/>
  
 Resource-Driven Industrialization? What are the effects of a volatile oil sector on upstream manufacturing? <br/>
-<br/>
+<br/><br/><br/><br/><br/><br/><br/>
 
 <img align="right" width="340" height="340" src="files/elections2.PNG">
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/>
  
 Local Politics and Deforestation: Did a ban on corporate donations change environmental governance in the Amazon?<br/>
 
