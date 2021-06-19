@@ -10,7 +10,7 @@ Welcome! I am a PhD Candidate in the Department of Agricultural and Applied Econ
 
 My research lies in the fields of development economics, resource economics, and political economy. I am interested in institutions of natural resource governance, industrialization and industrial policies, and the effects of resource booms and busts on governments, firms, and workers.
 
-In my current work, I use applied econometrics, big data, and natural quasi-experiments to understand how local governments, politicians, and firms respond to oil discoveries, how an oil boom created spillovers across manufacturing sectors, and how corporate donations drive deforestation in the Amazon. 
+In my current work, I use applied econometrics and big data to understand how local governments, politicians, and firms respond to oil discoveries, how an oil boom created spillovers across manufacturing sectors, and how special interest campaign donations drive deforestation in the Amazon. 
 
 I am an affiliate of the [Latin American, Caribbean, and Iberian Studies Program]( https://lacis.wisc.edu/). My work has been funded by the Institute for Regional and International Studies, Tinker Nave, FAPESP, and a UW Graduate Fellowship. Prior to my PhD, I was a Fulbright Research Fellow at [Unicamp](https://www.eco.unicamp.br/nea/) in São Paulo, Brazil. I received a BS in Economics from the University of Minnesota. <br/>
 
