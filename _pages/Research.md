@@ -6,13 +6,42 @@ author_profile: true
 ---
 # **Work in Progress**<br/>
 
-The Presource Curse: Does Anticipation and Disappointment after Oil Discoveries Undermine Local Governance in Brazil?
+[The Presource Curse: Anticipation, Disappointment, and Governance after Oil Discoveries](https://doi.org/10.1590/0103-6351/3943)<br/>
+[[Working Paper](/files/Katovich_Maia_NovaEconomia.pdf){:target="_blank"}] [[Published Version](https://doi.org/10.1590/0103-6351/3943){:target="_blank"}] <br/>
+<details><summary>Abstract</summary>
+Major resource discoveries may cause governments and politicians to alter their behavior
+based on expectations of future revenues. Yet discoveries are notoriously
+noisy signals. Resource windfalls often arrive later than expected, or never arrive at
+all. Do public spending and political competition increase in anticipation of future
+windfalls? Are there long-term consequences of disappointed expectations? I test
+for subnational evidence of this “Presource Curse” following a wave of offshore oil
+discoveries in Brazil between 2000-2017. I exploit a quasi-experiment created by
+Brazil’s formulaic sharing rules for oil and gas revenues, which allow municipal governments
+to predict whether they will benefit from exogenous offshore discoveries.
+Drawing on an original geolocated dataset of 179 major discovery announcements,
+I use event studies to estimate dynamic effects of discoveries on municipal public
+finances, public goods provision, political competition, and firm entry and hiring.
+To explore the effects of disappointment, I build a model of offshore oil production
+and royalty allocation to forecast each municipality’s expected revenue stream after
+discovery announcements. I find that disappointment was widespread: 30 of 48
+Brazilian municipalities affected by discovery announcements between 2000-2017 ultimately
+receive less than 40% of the revenues they could have expected. Further, I
+find that municipalities do not exhibit rapid anticipatory responses to discovery announcements,
+but ten years after a discovery, municipalities where production met
+expectations enjoy significant increases in revenues (+75%) and spending (+21%)
+relative to never-treated controls. They do not, however, show improvements in
+public goods provision. Disappointed municipalities experience reduced per capita
+investment (-57%) and education and health spending (-26%) ten years on, suggesting
+these places are worse off than control municipalities that never received a
+discovery. Local political competition intensifies after discovery announcements.<br/>
+</details> 
+<br/>
 
 Can Natural Resources Promote Industrialization? Firm-Level Evidence from an Industrial Policy in Brazil
 
 Are Workers Cursed by Resources? Effects of Oil Boom and Bust on Earnings, Education, and Inequality  <br/> (_with [Dominic Parker](https://aae.wisc.edu/dparker/), and [Steven Poehlekke](https://unidirectory.auckland.ac.nz/profile/steven-poelhekke)_)
 
-Corporate Donations and Environmental Governance: Evidence from a Campaign Finance Reform in Brazil <br/> (_with [Fanny Moffette](https://fannymoffette.com/)_)
+Local Politicians, Special Interests, and Deforestation in the Brazilian Amazon <br/> (_with [Fanny Moffette](https://fannymoffette.com/)_)
 
 <br/>
 # **Publications**<br/>
