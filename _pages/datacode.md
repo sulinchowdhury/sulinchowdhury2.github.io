@@ -7,6 +7,11 @@ author_profile: true
 # **Brazilian Data Resources**<br/> 
 I work with a wide range of administrative datasets from Brazil. I will post here useful data and cleaning scripts. Please feel free to make use of these resources, or reach out with questions, comments or suggestions through e-mail (ekatovich@wisc.edu) or [Github](https://github.com/ekatovich). <br/> 
 
+**Recreate Brazil's Geodesic Offshore Projection Maps (Oil & Gas Royalty Distribution)**<br/> 
+This repository contains R code, raw data, and supporting documentation to reconstruct orthogonal and parallel projections of state and municipal coastal boundaries used by Brazil's National Oil Agency to allocate offshore oil and gas revenues. 
+<br/> 
+[[R Code and Data Package](https://github.com/ekatovich/Royalties_and_SpecialParticipations)] <br/> 
+
 
 **ANP Oil Royalties and Special Participation Transfers to Municipalities (1999-2017)** <br/> 
 This repository contains raw data and Stata code to build a balanced monthly panel of royalty and special participation transfers to Brazilian municipalities from 1999-2017.<br/> 
