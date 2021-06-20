@@ -37,7 +37,7 @@ When does Industrial Policy Work? Did a local content requirement for Brazil's o
 
 <br/><br/><br/><br/>
  
-Local Politics and Deforestation: Do local politicians in the Brazilian Amazon allow more deforestation on properties owned by campaign contributors? <br/>
+Local Politics and Deforestation: Do politicians in the Brazilian Amazon allow more deforestation on properties owned by campaign contributors? <br/>
 
 <br/>
 
