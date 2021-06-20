@@ -10,7 +10,7 @@ I work with a wide range of administrative datasets from Brazil. I will post her
 **Recreate Brazil's Geodesic Offshore Projection Maps (Oil & Gas Royalty Distribution)**<br/> 
 This repository contains R code, raw data, and supporting documentation to reconstruct orthogonal and parallel projections of state and municipal coastal boundaries used by Brazil's National Oil Agency to allocate offshore oil and gas revenues. 
 <br/> 
-[[R Code and Data Package](https://github.com/ekatovich/Royalties_and_SpecialParticipations)] <br/> 
+[[R Code and Data Package](https://github.com/ekatovich/Brazil_GeodesicProjections)] <br/> 
 
 
 **ANP Oil Royalties and Special Participation Transfers to Municipalities (1999-2017)** <br/> 
