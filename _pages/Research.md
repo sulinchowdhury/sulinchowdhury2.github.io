@@ -35,7 +35,6 @@ investment (-57%) and education and health spending (-26%) ten years on, suggest
 these places are worse off than control municipalities that never received a
 discovery. Local political competition intensifies after discovery announcements.<br/>
 </details> 
-<br/>
 
 Are Workers Cursed by Resources? Effects of Oil Boom and Bust on Earnings, Education, and Inequality  <br/> (_with [Dominic Parker](https://aae.wisc.edu/dparker/), and [Steven Poehlekke](https://unidirectory.auckland.ac.nz/profile/steven-poelhekke)_)
 
