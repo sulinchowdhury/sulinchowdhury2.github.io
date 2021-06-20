@@ -6,8 +6,8 @@ author_profile: true
 ---
 # **Work in Progress**<br/>
 
-[The Presource Curse: Anticipation, Disappointment, and Governance after Oil Discoveries](https://doi.org/10.1590/0103-6351/3943)<br/>
-[[Working Paper](/files/Katovich_Maia_NovaEconomia.pdf){:target="_blank"}] [[Published Version](https://doi.org/10.1590/0103-6351/3943){:target="_blank"}] <br/>
+[The Presource Curse: Anticipation, Disappointment, and Governance after Oil Discoveries](/files/Katovich_PresourceCurse_2021_06_20.pdf){:target="_blank"})<br/>
+[[Working Paper](/files/Katovich_PresourceCurse_2021_06_20.pdf){:target="_blank"}] <br/>
 <details><summary>Abstract</summary>
 Major resource discoveries may cause governments and politicians to alter their behavior
 based on expectations of future revenues. Yet discoveries are notoriously
@@ -37,11 +37,11 @@ discovery. Local political competition intensifies after discovery announcements
 </details> 
 <br/>
 
-Can Natural Resources Promote Industrialization? Firm-Level Evidence from an Industrial Policy in Brazil
-
 Are Workers Cursed by Resources? Effects of Oil Boom and Bust on Earnings, Education, and Inequality  <br/> (_with [Dominic Parker](https://aae.wisc.edu/dparker/), and [Steven Poehlekke](https://unidirectory.auckland.ac.nz/profile/steven-poelhekke)_)
 
 Local Politicians, Special Interests, and Deforestation in the Brazilian Amazon <br/> (_with [Fanny Moffette](https://fannymoffette.com/)_)
+
+Can Natural Resources Promote Industrialization? Firm-Level Evidence from an Industrial Policy in Brazil
 
 <br/>
 # **Publications**<br/>
