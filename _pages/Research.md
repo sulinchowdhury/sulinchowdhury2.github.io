@@ -10,9 +10,7 @@ author_profile: true
 [[Working Paper](/files/Katovich_PresourceCurse_2021_06_20.pdf){:target="_blank"}] <br/>
 <details><summary>Abstract</summary>
 Major resource discoveries may cause governments and politicians to alter their behavior
-based on expectations of future revenues. Yet discoveries are notoriously
-noisy signals. Resource windfalls often arrive later than expected, or never arrive at
-all. Do public spending and political competition increase in anticipation of future
+based on expectations of future revenues. Yet discoveries often fail to pan out. Do public spending and political competition increase in anticipation of future
 windfalls? Are there long-term consequences of disappointed expectations? I test
 for subnational evidence of this “Presource Curse” following a wave of offshore oil
 discoveries in Brazil between 2000-2017. I exploit a quasi-experiment created by
