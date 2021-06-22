@@ -8,7 +8,7 @@ author_profile: true
 
 Welcome! I am a PhD Candidate in the Department of Agricultural and Applied Economics at the University of Wisconsin-Madison. You can download my CV [here](http://ekatovich.github.io/files/Katovich_CV.pdf).
 
-My research lies in the fields of development economics, resource economics, and political economy. I am interested in institutions of natural resource governance, industrialization and industrial policies, and the effects of resource booms and busts on governments, firms, and workers.
+My research lies in the fields of development economics, resource economics, and political economy. I study institutions of natural resource governance, industrialization and industrial policies, and the effects of resource booms and busts on governments, firms, and workers.
 
 In my current work, I use applied econometrics and big data to understand how local governments, politicians, and firms respond to oil discoveries, how an oil boom and bust affected workers throughout their careers, and how special interest campaign donations drive deforestation in the Amazon. 
 
