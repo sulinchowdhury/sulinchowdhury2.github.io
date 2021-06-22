@@ -33,7 +33,7 @@ investment (-57%) and education and health spending (-26%) ten years on, suggest
 these places are worse off than control municipalities that never received a
 discovery. Local political competition intensifies after discovery announcements.<br/>
 </details> 
-<br/>
+
 
 Are Workers Cursed by Resources? Effects of Oil Boom and Bust on Earnings, Education, and Inequality  <br/> (_with [Dominic Parker](https://aae.wisc.edu/dparker/), and [Steven Poehlekke](https://unidirectory.auckland.ac.nz/profile/steven-poelhekke)_)
 
@@ -51,7 +51,7 @@ Nova Economia, Vol. 28, No. 1, pp. 7-38 (2018)<br/>
 <details><summary>Abstract</summary>
 Labor productivity is a crucial long-run determinant of real wages. Nonetheless, wage and productivity dynamics often diverge in practice due to a range of economic and institutional factors. This study analyzes the relation between the dynamics of labor productivity and wages in Brazil from 1996 to 2014, and adopts a sectoral perspective to account for divergent trends among economic sectors. Analyses are based on pooled data drawn from the National Accounts and the Pesquisa Nacional por Amostra de Domicílios, and hierarchical data models are estimated to assess the impacts of state- and sector-level factors on individuals’ wages. Results indicate that productivity is significantly positively associated with wage levels for all economic sectors, but that institutional factors such as labor formalization and minimum wage exert equally significant impacts, suggesting that wage growth over the 1996-2014 period was as much the result of institutional changes as of transformation of Brazil’s productive structure.<br/>
 </details> 
-<br/>
+
 Are GMO Policies "Trade Related"? Empirical Analysis of Latin America <br/>
 [Pamela J. Smith](https://www.apec.umn.edu/people/pamela-smith) and Erik S. Katovich<br/>
 Applied Economic Perspectives and Policy, Vol. 39, No. 2, pp. 286-312 (2017)<br/>
