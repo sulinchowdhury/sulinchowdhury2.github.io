@@ -1,6 +1,6 @@
 ---
 permalink: /cv/
-title: "CV"
+title: "[CV](http://ekatovich.github.io/files/Katovich_CV.pdf)"
 excerpt: "CV"
 author_profile: true
 ---
