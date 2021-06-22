@@ -1,6 +1,6 @@
 ---
-permalink: /cv/
-title: "[CV](http://ekatovich.github.io/files/Katovich_CV.pdf)"
+permalink: /files/Katovich_CV.pdf
+title: "CV"
 excerpt: "CV"
 author_profile: true
 ---
