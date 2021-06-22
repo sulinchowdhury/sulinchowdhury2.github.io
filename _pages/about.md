@@ -15,7 +15,7 @@ In my current work, I use applied econometrics and big data to understand how lo
 I am an affiliate of the [Latin American, Caribbean, and Iberian Studies Program]( https://lacis.wisc.edu/). My work has been funded by the São Paulo Research Foundation (FAPESP), the Institute for Regional and International Studies, Tinker Nave, and a UW Graduate Fellowship. Prior to my PhD, I was a Fulbright Research Fellow at [Unicamp](https://www.eco.unicamp.br/nea/) in Brazil. I received a BS in Economics from the University of Minnesota. <br/>
 
 
-<br/><br/><br/><br/>
+<br/><br/>
 
 # **Selected Research Topics**
 <img align="right" width="340" height="340" src="files/discoveries_by_year3.gif">
