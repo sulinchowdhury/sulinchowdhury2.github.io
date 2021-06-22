@@ -29,6 +29,9 @@ This repository contains raw data and Stata code to attach Brazilian municipalit
 
 <br/> 
 **Useful Links** <br/> 
+[Base dos Dados](https://basedosdados.org/)<br/> 
+This is a major initiative to make Brazilian datasets available and accessible. New datasets are being cleaned and added every day. <br/> 
+
 [Cleaning RAIS in Stata (1985-2018)](https://github.com/rdahis/clean_RAIS) <br/> 
 [Ricardo Dahis](https://www.ricardodahis.com/) provides Stata code to clean the Relação Anual de Informações Sociais (RAIS), a matched employer-employee dataset with information on all formal establishments and workers in Brazil.  <br/> 
 
