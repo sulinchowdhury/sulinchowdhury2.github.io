@@ -64,7 +64,7 @@ This paper empirically examines whether GMO policies are “trade related” for
 What do we really know about the impacts of improved grain legumes and dryland cereals: A critical review of 18 impact studies<br/>
 Erik S. Katovich, Andrew W. Feist, [Karl Hughes](http://worldagroforestry.org/staff/karl-hughes), [Kai Mausch](http://worldagroforestry.org/staff/kai-mausch), and [Michael Hauser](https://www.icrisat.org/team/dr-michael-hauser/)<br/>
 ICRAF Working Paper Series, No. 295, World Agroforestry-Nairobi (2019).<br/>
-[[Working Paper](http://apps.worldagroforestry.org/downloads/Publications/PDFS/WP19006.pdf){:target="_blank"}] 
+[[Report](http://apps.worldagroforestry.org/downloads/Publications/PDFS/WP19006.pdf){:target="_blank"}] 
 
 
 
