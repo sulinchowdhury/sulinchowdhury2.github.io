@@ -31,6 +31,22 @@ author_profile: true
  
  <br/> <br/>
  
+ <img align="right" width="600" height="500" src="/files/Revenue_and_OilRevenue_Stata.png">
+ 
+ <br/> <br/>
+ 
+ <img align="right" width="600" height="500" src="/files/Spending_and_Investment_Stata.png">
+ 
+ <br/> <br/>
+ 
+ <img align="right" width="600" height="500" src="/files/PublicGoods_Spending_and_Index_Wells.png">
+ 
+ <br/> <br/>
+ 
+ <img align="right" width="600" height="500" src="/files/GDP_Population_Wells.png">
+ 
+ <br/> <br/>
+ 
  <img align="right" width="600" height="500" src="/files/TWFE_CS_Table_Satisfied.PNG">
  <img align="right" width="600" height="500" src="/files/TWFE_CS_Table_Disappointed.PNG">
  
@@ -42,3 +58,18 @@ author_profile: true
  
  Methodology
  This is where I explain the methodology.
+ 
+  <img align="right" width="600" height="500" src="/files/Orthogonal_Projections.PNG">
+ 
+ <br/>
+ 
+  <img align="right" width="600" height="500" src="/files/Parallel_Projections.PNG">
+ 
+ <br/>
+ 
+  <img align="right" width="600" height="500" src="/files/Rio_Wells_Example2.png">
+ 
+ <br/>
+ 
+   <img align="right" width="600" height="500" src="/files/Offshore_Production_Curve.jpg">
+ 
