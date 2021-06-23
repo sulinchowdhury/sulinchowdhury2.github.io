@@ -9,7 +9,7 @@ author_profile: false
 [[Download PDF](/files/Katovich_PresourceCurse.pdf){:target="_blank"}] <br>
 
 
-<img align="center" width="600" height="500" src="/files/Global_GiantDiscoveries.PNG">
+<img align="center" width="700" height="600" src="/files/Global_GiantDiscoveries.PNG">
  
  <br/> <br/>
 
