@@ -5,4 +5,7 @@ permalink: /jmp/
 author_profile: true
 ---
 
-This is where I talk about my JMP.
+**The Presource Curse: Anticipation, Disappointment, and Governance after Oil Discoveries**<br>
+[[Download PDF][/files/Katovich_PresourceCurse]
+
+
