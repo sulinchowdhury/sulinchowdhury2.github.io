@@ -48,8 +48,8 @@ author_profile: false
  <br/> <br/>
  
  <p float="center">
-  <img align="center" width="600" height="500" src="/files/TWFE_CS_Table_Satisfied.PNG" />
-  <img align="center" width="600" height="500" src="/files/TWFE_CS_Table_Disappointed.PNG" /> 
+  <img align="center" width="300" height="300" src="/files/TWFE_CS_Table_Satisfied.PNG" />
+  <img align="center" width="300" height="300" src="/files/TWFE_CS_Table_Disappointed.PNG" /> 
 </p>
  
  <br/> <br/>
@@ -62,8 +62,8 @@ author_profile: false
  This is where I explain the methodology.
  
   <p float="center">
-  <img align="center" width="600" height="500" src="/files/Orthogonal_Projections.PNG" />
-  <img align="center" width="600" height="500" src="/files/Parallel_Projections.PNG" />
+  <img align="center" width="300" height="300" src="/files/Orthogonal_Projections.PNG" />
+  <img align="center" width="300" height="300" src="/files/Parallel_Projections.PNG" />
  </p>
  
  <br/>
