@@ -2,7 +2,7 @@
 layout: archive
 title: 
 permalink: /jmp/
-author_profile: true
+author_profile: false
 ---
 
 **The Presource Curse: Anticipation, Disappointment, and <br> Governance after Oil Discoveries**<br>
