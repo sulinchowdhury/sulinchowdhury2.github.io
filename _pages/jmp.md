@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "JMP"
+title: 
 permalink: /jmp/
 author_profile: true
 ---
