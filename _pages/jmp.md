@@ -8,6 +8,13 @@ author_profile: true
 **The Presource Curse: Anticipation, Disappointment, and Governance after Oil Discoveries**<br>
 [[Download PDF](/files/Katovich_PresourceCurse.pdf){:target="_blank"}] <br>
 
+
+<img align="center" width="320" height="320" src="/files/Global_GiantDiscoveries.png">
+ 
+ <br/> <br/>
+
+
+
 <img align="center" width="320" height="320" src="/files/Graph_Discoveries_and_Prices.png">
  
  <br/> <br/>
