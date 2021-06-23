@@ -67,7 +67,7 @@ author_profile: true
  
  <br/>
  
-  <img align="center" width="600" height="500" src="/files/Rio_Wells_Example2.png">
+  <img align="center" width="600" height="500" src="/files/Rio_Wells_Example2.PNG">
  
  <br/>
  
