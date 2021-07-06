@@ -62,9 +62,9 @@ This repository contains R code and a template to create poster-quality streetma
 
 **CV Template**<br/> 
 Latex code used to create my CV.<br/> 
-[[Latex Template](https://github.com/ekatovich/CV_Template)]<br/> 
+[[Latex Template](https://github.com/ekatovich/CV_Latex_Template)]<br/> 
 
 **Github Website Template**<br/>
-Github Pages 
-[[Latex Template](https://github.com/ekatovich/CV_Template)]<br/> 
+Github Pages template to recreate this website.<br/>
+[[Github Pages Template](https://github.com/ekatovich/CV_Template)]<br/> 
 
