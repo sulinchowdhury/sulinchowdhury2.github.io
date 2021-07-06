@@ -65,6 +65,6 @@ Latex code used to create my CV.<br/>
 [[Latex Template](https://github.com/ekatovich/CV_Latex_Template)]<br/> 
 
 **Github Website Template**<br/>
-Github Pages template to recreate this website (originally from [[Minimal Mistakes Jekyll Theme](https://mademistakes.com/work/minimal-mistakes-jekyll-theme/)]).<br/>
-[[Github Pages Template](https://github.com/ekatovich/ekatovich.github.io)]<br/> 
+Github Pages code to recreate this website.<br/>
+[[Github Pages Code](https://github.com/ekatovich/ekatovich.github.io)]<br/> 
 
