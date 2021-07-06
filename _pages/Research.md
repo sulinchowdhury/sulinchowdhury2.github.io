@@ -36,8 +36,14 @@ discovery. Local political competition intensifies after discovery announcements
 
 
 Are Workers Cursed by Resources? Effects of Oil Boom and Bust on Earnings, Education, and Inequality  <br/> (_with [Dominic Parker](https://aae.wisc.edu/dparker/), and [Steven Poehlekke](https://unidirectory.auckland.ac.nz/profile/steven-poelhekke)_)
+<details><summary>Abstract</summary>
+Coming Soon!<br/>
+</details> 
 
 Local Politicians, Special Interests, and Deforestation in the Brazilian Amazon <br/> (_with [Fanny Moffette](https://fannymoffette.com/)_)
+<details><summary>Abstract</summary>
+Coming Soon!<br/>
+</details> 
 
 Can Natural Resources Promote Industrialization? Firm-Level Evidence from an Industrial Policy in Brazil
 
