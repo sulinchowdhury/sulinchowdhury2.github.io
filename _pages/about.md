@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 
-Welcome! I am a PhD Candidate in the Department of Agricultural and Applied Economics at the University of Wisconsin-Madison. You can read my CV [here](http://ekatovich.github.io/files/Katovich_CV.pdf).
+Welcome! I am a PhD Candidate in the Department of Agricultural and Applied Economics at the University of Wisconsin-Madison. <! You can read my CV [here](http://ekatovich.github.io/files/Katovich_CV.pdf).>
 
 My research lies in the fields of development economics, resource economics, and political economy. I study institutions of natural resource governance, industrialization and industrial policies, and the effects of resource booms and busts on governments, firms, and workers.
 
@@ -16,7 +16,7 @@ I am an affiliate of the [Latin American, Caribbean, and Iberian Studies Program
 
 
 <br/><br/>
-
+<!
 # **Selected Research Topics**
 <img align="right" width="340" height="340" src="files/discoveries_by_year3.gif">
  
@@ -40,4 +40,4 @@ When does Industrial Policy Work? Did a local content requirement for Brazil's o
 Local Politics and Deforestation: Do politicians in the Brazilian Amazon allow more deforestation on properties owned by campaign contributors? <br/>
 
 <br/>
-
+>
