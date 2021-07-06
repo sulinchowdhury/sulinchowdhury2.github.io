@@ -16,7 +16,7 @@ I am an affiliate of the [Latin American, Caribbean, and Iberian Studies Program
 
 
 <br/><br/>
-<!
+<!--
 # **Selected Research Topics**
 <img align="right" width="340" height="340" src="files/discoveries_by_year3.gif">
  
@@ -40,4 +40,4 @@ When does Industrial Policy Work? Did a local content requirement for Brazil's o
 Local Politics and Deforestation: Do politicians in the Brazilian Amazon allow more deforestation on properties owned by campaign contributors? <br/>
 
 <br/>
->
+-->
