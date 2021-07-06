@@ -66,5 +66,5 @@ Latex code used to create my CV.<br/>
 
 **Github Website Template**<br/>
 Github Pages template to recreate this website.<br/>
-[[Github Pages Template](https://github.com/ekatovich/CV_Template)]<br/> 
+[[Github Pages Template](https://github.com/ekatovich/ekatovich.github.io)]<br/> 
 
