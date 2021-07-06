@@ -58,4 +58,13 @@ Brazil's Information Access Law requires public agencies to respond to requests 
 
 **Create beautiful watercolor streetmaps with Open Street Map and ggplot2**<br/> 
 This repository contains R code and a template to create poster-quality streetmaps of any city. (easy intro to ggplot2) <br/> 
-[[R Code and PowerPoint Template](https://github.com/ekatovich/Streetmaps)]
+[[R Code and PowerPoint Template](https://github.com/ekatovich/Streetmaps)]<br/> 
+
+**CV Template**<br/> 
+Latex code used to create my CV.<br/> 
+[[Latex Template](https://github.com/ekatovich/CV_Template)]<br/> 
+
+**Github Website Template**<br/>
+Github Pages 
+[[Latex Template](https://github.com/ekatovich/CV_Template)]<br/> 
+
