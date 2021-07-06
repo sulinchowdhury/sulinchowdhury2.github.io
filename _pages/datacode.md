@@ -20,7 +20,7 @@ This repository contains raw data and Stata code to build a balanced monthly pan
 
 
 **Municipality Name to Municipality/Microregion/Mesoregion/UF Code Crosswalk** <br/> 
-This repository contains raw data and Stata code to attach Brazilian municipality names to 6 and 7 digit IBGE numeric municipality identifiers, as well as microregion, macroregion, and state identifiers. This facilitates merges with datasets that report only municipality names. <br/> 
+This repository contains raw data and Stata code to attach Brazilian municipality names to 6 and 7 digit IBGE numeric municipality identifiers, as well as microregion, mesoregion, and state identifiers. This facilitates merges with datasets that report only municipality names. <br/> 
 [[Crosswalk (Stata)](https://github.com/ekatovich/Municipality_Name_ID_crosswalk)]  
 [[Brazilian Geographical Units Data (Municipality, Microregion, Mesoregion, and UF)](https://github.com/ekatovich/Municipality_Name_ID_crosswalk/blob/master/Raw_Brazil_GeographicalUnits.csv)] <br/> 
 
