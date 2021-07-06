@@ -21,5 +21,5 @@ Once the basic page is up and running, you can get started with your customizati
 5. Go to "images" to upload your profile picture and other images for the website
 
 Here are some helpful links to building and customizing your site:
-https://zenglix.github.io/personal_website/
+https://zenglix.github.io/personal_website/ <br/>
 https://www.cross-validated.com/Personal-website-with-Minimal-Mistakes-Jekyll-Theme-HOWTO-Part-II/
