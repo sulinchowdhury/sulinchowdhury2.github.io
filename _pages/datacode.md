@@ -1,7 +1,7 @@
 ---
 title: "Data and Code"
 permalink: /datacode/
-author_profile: false
+author_profile: true
 ---
 <br/>
 # **Brazilian Data Resources**<br/> 
