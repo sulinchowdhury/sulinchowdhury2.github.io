@@ -33,7 +33,7 @@ The "Presource Curse":  How do local governments react to the announcement of oi
 When does Industrial Policy Work? Did a local content requirement for Brazil's oil sector promote firm growth and innovation? <br/>
 <br/><br/><br/><br/>
 
-<img align="right" width="340" height="340" src="files/Politicians_Landowners_Merge_Map.PNG">
+<img align="right" width="340" height="340" src="files/Politicians_Landowners_Merge_Map_Final.PNG">
 
 <br/><br/><br/><br/>
  
