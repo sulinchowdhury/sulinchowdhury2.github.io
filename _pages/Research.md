@@ -7,7 +7,7 @@ author_profile: true
 # **Work in Progress**<br/>
 
 The Presource Curse: Anticipation, Disappointment, and Governance after Oil Discoveries <br/>
-[[Job Market Paper](/files/Katovich_PresourceCurse.pdf){:target="_blank"}] [[Slides (15 Minutes)](/files/AERE_Presentation_2021_Katovich.pdf){:target="_blank"}] [[Slides (60 Minutes)](/files/Dev_Lab_July_2021_Presource_Curse.pdf){:target="_blank"}] <br/>
+[[Job Market Paper](/files/Katovich_PresourceCurse.pdf){:target="_blank"}] [[Slides (15 Minutes)](/files/AERE_Presentation_2021_Katovich.pdf){:target="_blank"}] [[Slides (60 Minutes)](/files/PresourceCurse_UWDevLab_July15.pdf){:target="_blank"}] <br/>
 <details><summary>Abstract</summary>
 Major resource discoveries may cause governments and politicians to alter their behavior
 based on expectations of future revenues. Yet discoveries often fail to pan out. Do public spending and political competition increase in anticipation of future
