@@ -12,7 +12,7 @@ My research lies in the fields of development economics, resource economics, and
 
 In my current work, I bring together big datasets with econometric and geospatial tools to understand how local governments respond to oil discoveries, how participation in volatile natural resource sectors shapes workers' careers, and how special interest politics drive deforestation in the Amazon. <br/>
 
-I am an affiliate of the [Latin American, Caribbean, and Iberian Studies Program]( https://lacis.wisc.edu/). My work has been funded by the São Paulo Research Foundation (FAPESP), the Institute for Regional and International Studies, Tinker Nave, and a UW Graduate Fellowship. Prior to my PhD, I was a Fulbright Research Fellow at [Unicamp](https://www.eco.unicamp.br/nea/) in Brazil. I received a BS in Economics from the University of Minnesota.
+I am an affiliate of the [Latin American, Caribbean, and Iberian Studies Program]( https://lacis.wisc.edu/) and the [Elections Research Center](https://elections.wisc.edu/) at UW-Madison. My work has been funded by the São Paulo Research Foundation (FAPESP), the Institute for Regional and International Studies, Tinker Nave, and a UW Graduate Fellowship. Prior to my PhD, I was a Fulbright Research Fellow at [Unicamp](https://www.eco.unicamp.br/nea/) in Brazil. I received a BS in Economics from the University of Minnesota.
 
 
 
