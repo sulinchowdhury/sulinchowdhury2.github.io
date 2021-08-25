@@ -37,12 +37,37 @@ discovery. Local political competition intensifies after discovery announcements
 
 Are Workers Cursed by Resources? Effects of Oil Boom and Bust on Earnings, Education, and Inequality  <br/> (_with [Dominic Parker](https://aae.wisc.edu/dparker/), and [Steven Poehlekke](https://unidirectory.auckland.ac.nz/profile/steven-poelhekke)_)
 <details><summary>Abstract</summary>
-Coming Soon!<br/>
+How are workers' careers shaped by exposure to a volatile natural resource sector? Drawing
+on employer-employee linked panel data covering the universe of formal workers in Brazil between 2003-
+2017, we identify workers who are poached or newly hired into oil-linked sectors (direct, upstream, and
+downstream) during periods of oil boom (2006-2013) and bust (2014-2017). Using event studies, we estimate
+dynamic eects of exposure to the volatile oil sector on wages, employment, skill formation, and lifetime
+formal earnings, relative to (extremely) closely matched counterfactual workers who are poached or newly
+hired into other sectors at the same time. Results show that timing of entry into oil matters: workers hired
+into oil-linked sectors at the beginning of Brazil's oil boom earn signicantly more than matched workers
+hired into other sectors; workers hired immediately prior to the bust period suer signicant earnings and
+employment penalties. Furthermore, exposure to the oil sector exerts dramatically heterogeneous eects on
+workers of diering education levels. High education workers earn more during boom years and are retained
+by rms during the bust. Lower education workers never enjoy signicant gains during the boom and are
+laid o by rms during the bust. Exploiting an original complementary dataset on oil-linked graduates
+from higher education programs in Brazil, we document that the oil boom period was accompanied by a
+boom in oil-linked skill formation, largely driven by growth in private-sector technical training programs.<br/>
 </details> 
 
 Local Politicians, Special Interests, and Deforestation in the Brazilian Amazon <br/> (_with [Fanny Moffette](https://fannymoffette.com/)_)
 <details><summary>Abstract</summary>
-Coming Soon!<br/>
+When economic incentives to clear land for agriculture run up against centralized eorts to
+combat deforestation, do local politicians intercede to promote their own economic interests or those of their
+campaign supporters? How does the behavior of local politicians and special interest groups change when
+centralized enforcement eorts are relaxed? By combining comprehensive land registries for the Brazilian
+Amazon, data on local political candidates and campaign donors in ve municipal elections between 2000-
+2016, and satellite data on deforestation and land use, we construct an original panel dataset of annual tree
+cover loss on properties belonging to political candidates and campaign donors in the Brazilian Amazon
+between 2000-2020. Drawing on this dataset, we estimate event studies around close municipal elections
+to explore whether landowning candidates increase deforestation on their own properties before or after
+winning an election, and whether successful candidates reward landowning donors by allowing them to
+deforest more. Our ndings inform debates over the decentralization of resource governance, elite capture,
+and resource conservation policy.<br/>
 </details> 
 
 Can Natural Resources Promote Industrialization? Firm-Level Evidence from an Industrial Policy in Brazil
