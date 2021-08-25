@@ -24,10 +24,11 @@ The "Presource Curse":  How do local governments react to the announcement of oi
 
 <br/><br/><br/><br/>
 
-<img align="right" width="320" height="320" src="files/refineries_impact.PNG">
+<img align="right" width="320" height="320" src="files/Wage_Figure_Snip.png">
  
  <br/> <br/>
- 
+
+How does an Oil Boom and Bust Affect Workers' Careers? 
 When does Industrial Policy Work? Did a local content requirement for Brazil's oil sector promote firm growth and innovation? <br/>
 <br/><br/><br/><br/>
 
