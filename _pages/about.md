@@ -29,7 +29,7 @@ The "Presource Curse":  How do local governments react to the announcement of oi
  <br/> <br/>
 
 How does an Oil Boom and Bust Affect Workers' Careers? 
-<br/><br/><br/><br/>
+<br/><br/><br/><br/><br/>
 
 <img align="right" width="340" height="340" src="files/Politicians_Landowners_Merge_Map_Final.PNG">
 
