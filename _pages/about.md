@@ -15,7 +15,7 @@ I am an affiliate of the [Latin American, Caribbean, and Iberian Studies Program
 
 
 <br/><br/>
-# **Selected Research Topics**
+# *Selected Research Topics*
 <img align="right" width="340" height="340" src="files/discoveries_by_year3.gif">
  
  <br/><br/>
@@ -28,7 +28,7 @@ The "Presource Curse":  How do local governments react to the announcement of oi
  
  <br/> <br/><br/>
 
-How does an Oil Boom and Bust Affect Workers' Careers? 
+Are Workers Cursed by Oil? How does exposure to oil boom and bust affect long-term earnings and employment?
 <br/><br/><br/><br/><br/>
 
 <img align="right" width="340" height="340" src="files/Politicians_Landowners_Merge_Map_Final.PNG">
