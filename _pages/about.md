@@ -26,7 +26,7 @@ The "Presource Curse":  How do local governments react to the announcement of oi
 
 <img align="right" width="320" height="320" src="files/EventStudies_Clip.PNG">
  
- <br/> <br/>
+ <br/> <br/><br/>
 
 How does an Oil Boom and Bust Affect Workers' Careers? 
 <br/><br/><br/><br/><br/>
