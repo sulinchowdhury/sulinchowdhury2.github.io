@@ -24,7 +24,7 @@ The "Presource Curse":  How do local governments react to the announcement of oi
 
 <br/><br/><br/><br/>
 
-<img align="right" width="320" height="320" src="files/Wage_Figure_Snip.PNG">
+<img align="right" width="320" height="320" src="files/EventStudies_Clip.PNG">
  
  <br/> <br/>
 
