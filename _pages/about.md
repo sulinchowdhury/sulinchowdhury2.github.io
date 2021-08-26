@@ -15,7 +15,7 @@ I am an affiliate of the [Latin American, Caribbean, and Iberian Studies Program
 
 
 <br/><br/>
-# *Selected Research Topics*
+ **Selected Research Topics**
 <img align="right" width="340" height="340" src="files/discoveries_by_year3.gif">
  
  <br/><br/>
