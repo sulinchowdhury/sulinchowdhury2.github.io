@@ -26,15 +26,15 @@ The "Presource Curse":  How do local governments react to the announcement of oi
 
 <img align="right" width="320" height="320" src="files/EventStudies_Clip.PNG">
  
- <br/> <br/><br/>
+ <br/> <br/>
 
 Are Workers Cursed by Natural Resources? Using worker-level panel data to measure how exposure to oil boom and bust affect long-term earnings and employment.
 
-<br/><br/><br/><br/><br/>
+<br/><br/><br/><br/>
 
 <img align="right" width="340" height="340" src="files/Politicians_Landowners_Merge_Map_Final.PNG">
 
-<br/><br/><br/><br/>
+<br/><br/><br/>
  
 Local Politics and Deforestation: Do politicians in the Brazilian Amazon allow more deforestation on properties owned by campaign contributors? <br/>
 
