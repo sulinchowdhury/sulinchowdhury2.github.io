@@ -9,29 +9,8 @@ author_profile: true
 The Presource Curse: Anticipation, Disappointment, and Governance after Oil Discoveries <br/>
 [[Job Market Paper](/files/Katovich_PresourceCurse.pdf){:target="_blank"}] [[Slides (15 Minutes)](/files/Katovich_AAEA_2021.pdf){:target="_blank"}] [[Slides (60 Minutes)](/files/PresourceCurse_UWDevLab_July15.pdf){:target="_blank"}] <br/>
 <details><summary>Abstract</summary>
-Major resource discoveries may cause governments and politicians to alter their behavior
-based on expectations of future revenues. Yet discoveries often fail to pan out. Do public spending and political competition increase in anticipation of future
-windfalls? Are there long-term consequences of disappointed expectations? I test
-for subnational evidence of this “Presource Curse” following a wave of offshore oil
-discoveries in Brazil between 2000-2017. I exploit a quasi-experiment created by
-Brazil’s formulaic sharing rules for oil and gas revenues, which allow municipal governments
-to predict whether they will benefit from exogenous offshore discoveries.
-Drawing on an original geolocated dataset of 179 major discovery announcements,
-I use event studies to estimate dynamic effects of discoveries on municipal public
-finances, public goods provision, political competition, and firm entry and hiring.
-To explore the effects of disappointment, I build a model of offshore oil production
-and royalty allocation to forecast each municipality’s expected revenue stream after
-discovery announcements. I find that disappointment was widespread: 30 of 48
-Brazilian municipalities affected by discovery announcements between 2000-2017 ultimately
-receive less than 40% of the revenues they could have expected. Further, I
-find that municipalities do not exhibit rapid anticipatory responses to discovery announcements,
-but ten years after a discovery, municipalities where production met
-expectations enjoy significant increases in revenues (+75%) and spending (+21%)
-relative to never-treated controls. They do not, however, show improvements in
-public goods provision. Disappointed municipalities experience reduced per capita
-investment (-57%) and education and health spending (-26%) ten years on, suggesting
-these places are worse off than control municipalities that never received a
-discovery. Local political competition intensifies after discovery announcements.<br/>
+Resource discoveries are often followed by long delays and heterogeneous production realizations. Some discoveries lead to revenue windfalls while others never produce. This uncertainty creates challenges for governance: policymakers may alter present behavior in anticipation of future revenues or struggle to adapt to disappointed expectations. I exploit quasi-experimental subnational variation to estimate causal effects of offshore oil and gas discoveries on local governments in Brazil. Using an original geolocated dataset of 179 major discovery announcements, I estimate dynamic effects of discoveries on municipal public finances, public goods provision, and political competition, selection, and patronage. I develop a forecasting model to document that most municipalities (30 of 48) affected by discoveries ultimately fail to receive the revenues they could have expected. These disappointed municipalities suffer significant declines in per capita investment and public goods spending after ten years. In contrast, municipalities where discoveries are realized enjoy significant growth in per capita revenues and spending, but do not invest in economic diversification or improve real public goods provision. %Political competition increases weakly after discovery announcements and less-educated candidates run for and win office. 
+My findings highlight the importance of accounting for timing and heterogeneity in discovery realizations after discovery announcements.<br/>
 </details> 
 
 
