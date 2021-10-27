@@ -7,32 +7,32 @@ author_profile: true
 # **Work in Progress**<br/>
 
 The Presource Curse: Anticipation, Disappointment, and Governance after Oil Discoveries <br/>
-[[Job Market Paper](/files/Katovich_PresourceCurse.pdf){:target="_blank"}] [[Slides (15 Minutes)](/files/Katovich_AAEA_2021.pdf){:target="_blank"}] [[Slides (60 Minutes)](/files/Katovich_PresourceCurse_JobTalk.pdf){:target="_blank"}] <br/>
+[[Job Market Paper](/files/Katovich_PresourceCurse.pdf){:target="_blank"}] [[Slides (20 Minutes)](/files/Katovich_LACEA_2021.pdf){:target="_blank"}] [[Slides (75 Minutes)](/files/Katovich_PresourceCurse_JobTalk.pdf){:target="_blank"}] <br/>
 <details><summary>Abstract</summary>
 Resource discoveries are often followed by long delays and heterogeneous production realizations. Some discoveries lead to revenue windfalls while others never produce. This uncertainty creates challenges for governance: policymakers may alter present behavior in anticipation of future revenues or struggle to adapt to disappointed expectations. I exploit quasi-experimental subnational variation to estimate causal effects of offshore oil and gas discoveries on local governments in Brazil. Using an original geolocated dataset of 179 major discovery announcements, I estimate dynamic effects of discoveries on municipal public finances, public goods provision, and political competition, selection, and patronage. I develop a forecasting model to document that most municipalities (30 of 48) affected by discoveries ultimately fail to receive the revenues they could have expected. These disappointed municipalities suffer significant declines in per capita investment and public goods spending after ten years. In contrast, municipalities where discoveries are realized enjoy significant growth in per capita revenues and spending, but do not invest in economic diversification or improve real public goods provision. My findings highlight the importance of accounting for timing and heterogeneity in discovery realizations after discovery announcements.<br/>
 </details> 
 
 
-Are Workers Cursed by Resources? Effects of Oil Boom and Bust on Earnings, Education, and Inequality  <br/> (_with [Dominic Parker](https://aae.wisc.edu/dparker/), and [Steven Poehlekke](https://unidirectory.auckland.ac.nz/profile/steven-poelhekke)_)
+Timing of Human Capital Investment and Career Outcomes: Evidence from an Oil Boom and Bust  <br/> (_with [Dominic Parker](https://aae.wisc.edu/dparker/), and [Steven Poehlekke](https://unidirectory.auckland.ac.nz/profile/steven-poelhekke)_)
+[[Slides (60 Minutes)](/files/Brazil_Oil_Boom_UWPresentation_2021_10.pdf){:target="_blank"}]
 <details><summary>Abstract</summary>
-How are workers' careers shaped by exposure to a volatile natural resource sector? Drawing
+How are workers' careers shaped by exposure to a volatile sector? Drawing
 on employer-employee linked panel data covering the universe of formal workers in Brazil between 2003-
 2017, we identify workers who are poached or newly hired into oil-linked sectors (direct, upstream, and
-downstream) during periods of oil boom (2006-2013) and bust (2014-2017). Using event studies, we estimate
-dynamic eects of exposure to the volatile oil sector on wages, employment, skill formation, and lifetime
+downstream) during periods of oil boom and bust. We estimate
+dynamic effects of exposure to the oil sector on wages, employment, promotion, and lifetime
 formal earnings, relative to (extremely) closely matched counterfactual workers who are poached or newly
 hired into other sectors at the same time. Results show that timing of entry into oil matters: workers hired
 into oil-linked sectors at the beginning of Brazil's oil boom earn significantly more than matched workers
-hired into other sectors; workers hired immediately prior to the bust period suffer significant earnings and
-employment penalties. Furthermore, exposure to the oil sector exerts dramatically heterogeneous effects on
+hired into other sectors; workers hired immediately prior to or during busts suffer significant earnings and
+employment penalties. Furthermore, exposure to oil exerts dramatically heterogeneous effects on
 workers of differing education levels. High education workers earn more during boom years and are retained
-by firms during the bust. Lower education workers never enjoy signifcant gains during the boom and are
-laid off by firms during the bust. Exploiting an original complementary dataset on oil-linked graduates
-from higher education programs in Brazil, we document that the oil boom period was accompanied by a
-boom in oil-linked skill formation, largely driven by growth in private-sector technical training programs.<br/>
+by firms during busts. Lower education workers never enjoy signifcant gains during the boom and are
+laid off during busts. Exploiting a complementary dataset on oil-linked graduates
+from higher education programs in Brazil, we document that the oil boom period was accompanied by rapid growth in oil-linked human capital investment, driven by growth in private-sector technical training programs.<br/>
 </details> 
 
-Local Politicians, Special Interests, and Deforestation in the Brazilian Amazon <br/> (_with [Fanny Moffette](https://fannymoffette.com/)_)
+Agricultural Elites, Special Interest Politics, and Deforestation in the Amazon <br/> (_with [Fanny Moffette](https://fannymoffette.com/)_)
 <details><summary>Abstract</summary>
 When economic incentives to clear land for agriculture run up against centralized efforts to
 combat deforestation, do local politicians intercede to promote their own economic interests or those of their
