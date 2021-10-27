@@ -13,7 +13,7 @@ Resource discoveries are often followed by long delays and heterogeneous product
 </details> 
 
 
-Timing of Human Capital Investment and Career Outcomes: Evidence from an Oil Boom and Bust  <br/> (_with [Dominic Parker](https://aae.wisc.edu/dparker/), and [Steven Poehlekke](https://unidirectory.auckland.ac.nz/profile/steven-poelhekke)_) <br/>
+Timing of Human Capital Investment and Career Outcomes: Evidence from an Oil Boom and Bust  <br/> (_with [Dominic Parker](https://aae.wisc.edu/dparker/) and [Steven Poehlekke](https://unidirectory.auckland.ac.nz/profile/steven-poelhekke)_) <br/>
 [[Slides (60 Minutes)](/files/Brazil_Oil_Boom_UWPresentation_2021_10.pdf){:target="_blank"}]<br/>
 <details><summary>Abstract</summary>
 How are workers' careers shaped by exposure to a volatile sector? Drawing
