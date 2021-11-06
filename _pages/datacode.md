@@ -10,19 +10,19 @@ I work with a wide range of administrative datasets from Brazil. I will post her
 **Recreate Brazil's Geodesic Offshore Projection Maps (Oil & Gas Royalty Distribution)**<br/> 
 This repository contains R code, raw data, and supporting documentation to reconstruct orthogonal and parallel projections of state and municipal coastal boundaries used by Brazil's National Oil Agency to allocate offshore oil and gas revenues. 
 <br/> 
-[[R Code and Data Package](https://github.com/ekatovich/Brazil_GeodesicProjections)] <br/> 
+[R Code and Data Package](https://github.com/ekatovich/Brazil_GeodesicProjections) <br/> 
 
 
 **ANP Oil Royalties and Special Participation Transfers to Municipalities (1999-2017)** <br/> 
 This repository contains raw data and Stata code to build a balanced monthly panel of royalty and special participation transfers to Brazilian municipalities from 1999-2017.<br/> 
-[[Raw Data and Stata Code](https://github.com/ekatovich/Royalties_and_SpecialParticipations)]  [[Royalties and Special Participations Monthly Panel (.dta)](https://github.com/ekatovich/Royalties_and_SpecialParticipations/blob/master/Data/Analysis/Royalties_and_SpecialPart_AnnualPanel_FINAL.dta)] <br/> 
+[Raw Data and Stata Code](https://github.com/ekatovich/Royalties_and_SpecialParticipations)  [Royalties and Special Participations Monthly Panel (.dta)(https://github.com/ekatovich/Royalties_and_SpecialParticipations/blob/master/Data/Analysis/Royalties_and_SpecialPart_AnnualPanel_FINAL.dta)] <br/> 
 
 
 
 **Municipality Name to Municipality/Microregion/Mesoregion/UF Code Crosswalk** <br/> 
 This repository contains raw data and Stata code to attach Brazilian municipality names to 6 and 7 digit IBGE numeric municipality identifiers, as well as microregion, mesoregion, and state identifiers. This facilitates merges with datasets that report only municipality names. <br/> 
-[[Crosswalk (Stata)](https://github.com/ekatovich/Municipality_Name_ID_crosswalk)]  
-[[Brazilian Geographical Units Data (Municipality, Microregion, Mesoregion, and UF)](https://github.com/ekatovich/Municipality_Name_ID_crosswalk/blob/master/Raw_Brazil_GeographicalUnits.csv)] <br/> 
+[Crosswalk (Stata)](https://github.com/ekatovich/Municipality_Name_ID_crosswalk)
+[Brazilian Geographical Units Data (Municipality, Microregion, Mesoregion, and UF)(https://github.com/ekatovich/Municipality_Name_ID_crosswalk/blob/master/Raw_Brazil_GeographicalUnits.csv)] <br/> 
 
 
 
@@ -58,13 +58,13 @@ Brazil's Information Access Law requires public agencies to respond to requests 
 
 **Create beautiful watercolor streetmaps with Open Street Map and ggplot2**<br/> 
 This repository contains R code and a template to create poster-quality streetmaps of any city. (easy intro to ggplot2) <br/> 
-[[R Code and PowerPoint Template](https://github.com/ekatovich/Streetmaps)]<br/> 
+[R Code and PowerPoint Template](https://github.com/ekatovich/Streetmaps)<br/> 
 
 **CV Template**<br/> 
 Latex code used to create my CV.<br/> 
-[[Latex Template](https://github.com/ekatovich/CV_Latex_Template)]<br/> 
+[Latex Template](https://github.com/ekatovich/CV_Latex_Template)<br/> 
 
 **Github Website Template**<br/>
 Github Pages code to recreate this website.<br/>
-[[Github Pages Code](https://github.com/ekatovich/ekatovich.github.io)]<br/> 
+[Github Pages Code](https://github.com/ekatovich/ekatovich.github.io)<br/> 
 
