@@ -59,7 +59,7 @@ Governments in low and middle-income countries frequently intervene in markets t
 The Relation Between Labor Productivity and Wages in Brazil: A Sectoral Analysis <br/>
 Erik S. Katovich and [Alexandre Gori Maia](https://www4.eco.unicamp.br/docentes/gori/)<br/>
 Nova Economia, Vol. 28, No. 1, pp. 7-38 (2018)<br/>
-[PDF](/files/Katovich_Maia_NovaEconomia.pdf){:target="_blank"} [Published Version](https://doi.org/10.1590/0103-6351/3943){:target="_blank"} <br/>
+[PDF](/files/Katovich_Maia_NovaEconomia.pdf){:target="_blank"} &nbsp; [Published Version](https://doi.org/10.1590/0103-6351/3943){:target="_blank"} <br/>
 <details><summary>Abstract</summary>
 Labor productivity is a crucial long-run determinant of real wages. Nonetheless, wage and productivity dynamics often diverge in practice due to a range of economic and institutional factors. This study analyzes the relation between the dynamics of labor productivity and wages in Brazil from 1996 to 2014, and adopts a sectoral perspective to account for divergent trends among economic sectors. Analyses are based on pooled data drawn from the National Accounts and the Pesquisa Nacional por Amostra de Domicílios, and hierarchical data models are estimated to assess the impacts of state- and sector-level factors on individuals’ wages. Results indicate that productivity is significantly positively associated with wage levels for all economic sectors, but that institutional factors such as labor formalization and minimum wage exert equally significant impacts, suggesting that wage growth over the 1996-2014 period was as much the result of institutional changes as of transformation of Brazil’s productive structure.<br/>
 </details> 
