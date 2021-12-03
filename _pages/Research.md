@@ -44,10 +44,9 @@ Amazon, data on local political candidates and campaign donors in five municipal
 2016, and satellite data on deforestation and land use, we construct an original panel dataset of annual tree
 cover loss on properties belonging to political candidates and campaign donors in the Brazilian Amazon
 between 2000-2020. Drawing on this dataset, we estimate event studies around close municipal elections
-to explore whether landowning candidates increase deforestation on their own properties before or after
-winning an election, and whether successful candidates reward landowning donors by allowing them to
-deforest more. Our findings inform debates over the decentralization of resource governance, elite capture,
-and resource conservation policy.</font>
+and find that deforestation decreases on landowning candidates’ properties while they are in office, but
+increases on the properties of their campaign donors. Our findings inform debates over the decentralization
+of resource governance, elite capture, and resource conservation policy</font>
 <br/>
 </details> 
 
