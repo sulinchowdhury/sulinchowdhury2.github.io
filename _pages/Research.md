@@ -3,6 +3,8 @@ layout: archive
 title: ""
 permalink: /Research/
 author_profile: true
+\usepackage{setspace}\doublespacing
+\usepackage{float}
 ---
 # **Work in Progress**<br/>
 
