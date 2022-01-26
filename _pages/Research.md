@@ -15,26 +15,25 @@ The Presource Curse: Anticipation, Disappointment, and Governance after Oil Disc
 
 
 Labor Reallocation, Human Capital Investment, and 'Stranded Careers': Evidence from an Oil Boom and Bust  <br/> (_with [Dominic Parker](https://aae.wisc.edu/dparker/) and [Steven Poehlekke](https://unidirectory.auckland.ac.nz/profile/steven-poelhekke)_) <br/>
-Working Paper Coming Soon! &nbsp; [Slides (60 Minutes)](/files/Brazil_Oil_Boom_UWPresentation_2021_10.pdf){:target="_blank"}<br/>
+[Working Paper](/files/Katovich_OilWorkers_WorkingPaper.pdf){:target="_blank"} &nbsp; [Slides (60 Minutes)](/files/Brazil_Oil_Boom_UWPresentation_2021_10.pdf){:target="_blank"}<br/>
 <details><summary>Abstract</summary>
-<font size="-1">How are workers' careers shaped by exposure to a volatile sector? Drawing
-on employer-employee linked panel data covering the universe of formal workers in Brazil between 2003-
-2017, we identify workers who are poached or newly hired into oil-linked sectors (direct, upstream, and
-downstream) during periods of oil boom and bust. We estimate
-dynamic effects of exposure to the oil sector on wages, employment, promotion, and lifetime
-formal earnings, relative to (extremely) closely matched counterfactual workers who are poached or newly
-hired into other sectors at the same time. Results show that timing of entry into oil matters: workers hired
-into oil-linked sectors at the beginning of Brazil's oil boom earn significantly more than matched workers
-hired into other sectors; workers hired immediately prior to or during busts suffer significant earnings and
-employment penalties. Furthermore, exposure to oil exerts dramatically heterogeneous effects on
-workers of differing education levels. High education workers earn more during boom years and are retained
-by firms during busts. Lower education workers never enjoy signifcant gains during the boom and are
-laid off during busts. Exploiting a complementary dataset on oil-linked graduates
-from higher education programs in Brazil, we document that the oil boom period was accompanied by rapid growth in oil-linked human capital investment, driven by growth in private-sector technical training programs.</font>
+<font size="-1">Sectoral expansions and contractions have significant worker-level and distributional
+consequences. Using linked employer-employee panel data from Brazil–a country that
+experienced oil booms and busts during the 2000s and 2010s–we estimate dynamic effects
+of being hired into the volatile oil and gas sector on workers’ subsequent wages,
+employment, and earnings. We find that oil generates inequality both between and
+within worker cohorts. Highly-educated early entrants capture nearly all the earnings
+benefits of the oil boom and are insulated from downturns by seniority and accumulation
+of institutional knowledge in professional roles within firms. Later high-education
+entrants must compete with a glut of new graduates from oil-specific degree programs,
+and suffer from “stranded careers” after oil busts. Low-education workers never enjoy
+earnings premiums during booms and lose their jobs during busts. Our findings contribute
+evidence on the job-creation potential of energy sectors and the distributional
+consequences of energy transitions.</font>
 <br/>
 </details> 
 
-Agricultural Elites, Special Interest Politics, and Deforestation in the Amazon <br/> (_with [Fanny Moffette](https://fannymoffette.com/)_)
+Agricultural Elites, Special Interest Politics, and Deforestation: Property-Level Evidence from the Amazon <br/> (_with [Fanny Moffette](https://fannymoffette.com/)_)
 <details><summary>Abstract</summary>
 <font size="-1">When economic incentives to clear land for agriculture run up against centralized efforts to
 combat deforestation, do local politicians intercede to promote their own economic interests or those of their
