@@ -2,7 +2,7 @@
 layout: archive
 title: ""
 permalink: /Research/
-author_profile: true
+author_profile: false
 ---
 # **Work in Progress**<br/>
 
@@ -13,10 +13,6 @@ Abstract
 <font size="-1">Resource discoveries are often followed by long delays and heterogeneous production realizations. Post-discovery uncertainty creates challenges for governance: policymakers may alter present behavior in anticipation of future revenues or struggle to adapt to disappointed expectations. I explore the dynamics of local governance after offshore oil and gas discoveries in Brazil. I exploit quasi-experimental subnational variation in discoveries and subsequent production realizations to identify causal effects of news and revenue shocks on municipal public finances, public goods provision, and political competition, selection, and patronage. Using a forecasting model of offshore oil production, I decompose post-discovery impacts across places where production meets expectations and places that are left disappointed. Relative to never-treated controls, places that experience discovery announcements but never receive windfalls suffer significant declines in per capita investment and public goods spending after ten years. In contrast, places where discoveries are realized enjoy significant growth in per capita revenues and spending, but do not invest in economic diversification or improve public goods provision. Electoral competition increases after discovery announcements and less-educated candidates run for and win office. My findings identify how local governments and politicians respond to shocks across time. Methodologically, I highlight the importance of accounting for dynamic treatment effects and heterogeneity in production outcomes after discovery announcements.  </font>
  <br/>
 <br/><br/><br/><br/>
-
-
-
-
 
 
 Labor Reallocation, Human Capital Investment, and 'Stranded Careers': Evidence from an Oil Boom and Bust  <br/> (_with [Dominic Parker](https://aae.wisc.edu/dparker/) and [Steven Poehlekke](https://unidirectory.auckland.ac.nz/profile/steven-poelhekke)_) <br/>
