@@ -10,28 +10,17 @@ The Presource Curse: Anticipation, Disappointment, and Governance after Oil Disc
 [Job Market Paper](/files/Katovich_PresourceCurse.pdf){:target="_blank"} &nbsp; [Slides (20 Minutes)](/files/Katovich_LACEA_2021.pdf){:target="_blank"} &nbsp; [Slides (75 Minutes)](/files/Katovich_PresourceCurse_JobTalk.pdf){:target="_blank"} &nbsp; [World Bank Development Impact Blog](https://blogs.worldbank.org/impactevaluations/governing-rocky-beginnings-resource-boom-how-do-local-governments-respond-oil) 
 <br/>
 
-<img align="left" width="280" height="310" src="/files/projections_pic.PNG"> <font size="-1.2"> Resource discoveries are often followed by long delays and heterogeneous production realizations. Post-discovery uncertainty creates challenges for governance: policymakers may alter present behavior in anticipation of future revenues or struggle to adapt to disappointed expectations. I explore the dynamics of local governance after offshore oil and gas discoveries in Brazil. I exploit quasi-experimental subnational variation in discoveries and subsequent production realizations to identify causal effects of news and revenue shocks on municipal public finances, public goods provision, and political competition, selection, and patronage. Using a forecasting model of offshore oil production, I decompose post-discovery impacts across places where production meets expectations and places that are left disappointed. Relative to never-treated controls, places that experience discovery announcements but never receive windfalls suffer significant declines in per capita investment and public goods spending after ten years. In contrast, places where discoveries are realized enjoy significant growth in per capita revenues and spending, but do not invest in economic diversification or improve public goods provision. Electoral competition increases after discovery announcements and less-educated candidates run for and win office. My findings identify how local governments and politicians respond to shocks across time. Methodologically, I highlight the importance of accounting for dynamic treatment effects and heterogeneity in production outcomes after discovery announcements.  </font>
-<br/><br/><br/><br/>
-
+<img align="left" width="290" height="330" src="/files/projections_pic.PNG"> <font size="-1.2"> Resource discoveries are often followed by long delays and heterogeneous production realizations. Post-discovery uncertainty creates challenges for governance: policymakers may alter present behavior in anticipation of future revenues or struggle to adapt to disappointed expectations. I explore the dynamics of local governance after offshore oil and gas discoveries in Brazil. I exploit quasi-experimental subnational variation in discoveries and subsequent production realizations to identify causal effects of news and revenue shocks on municipal public finances, public goods provision, and political competition, selection, and patronage. Using a forecasting model of offshore oil production, I decompose post-discovery impacts across places where production meets expectations and places that are left disappointed. Relative to never-treated controls, places that experience discovery announcements but never receive windfalls suffer significant declines in per capita investment and public goods spending after ten years. In contrast, places where discoveries are realized enjoy significant growth in per capita revenues and spending, but do not invest in economic diversification or improve public goods provision. Electoral competition increases after discovery announcements and less-educated candidates run for and win office. My findings identify how local governments and politicians respond to shocks across time. Methodologically, I highlight the importance of accounting for dynamic treatment effects and heterogeneity in production outcomes after discovery announcements.  </font>
+<br/>
 
 Labor Reallocation, Human Capital Investment, and 'Stranded Careers': Evidence from an Oil Boom and Bust  <br/> (_with [Dominic Parker](https://aae.wisc.edu/dparker/) and [Steven Poehlekke](https://unidirectory.auckland.ac.nz/profile/steven-poelhekke)_) <br/>
 [Working Paper](/files/Katovich_OilWorkers_WorkingPaper.pdf){:target="_blank"} &nbsp; [Slides (60 Minutes)](/files/Brazil_Oil_Boom_UWPresentation_2021_10.pdf){:target="_blank"}<br/>
-<details><summary>Abstract</summary>
-<font size="-1">Sectoral expansions and contractions have significant worker-level and distributional
-consequences. Using linked employer-employee panel data from Brazil–a country that
-experienced oil booms and busts during the 2000s and 2010s–we estimate dynamic effects
-of being hired into the volatile oil and gas sector on workers’ subsequent wages,
-employment, and earnings. We find that oil generates inequality both between and
-within worker cohorts. Highly-educated early entrants capture nearly all the earnings
-benefits of the oil boom and are insulated from downturns by seniority and accumulation
-of institutional knowledge in professional roles within firms. Later high-education
-entrants must compete with a glut of new graduates from oil-specific degree programs,
-and suffer from “stranded careers” after oil busts. Low-education workers never enjoy
-earnings premiums during booms and lose their jobs during busts. Our findings contribute
-evidence on the job-creation potential of energy sectors and the distributional
-consequences of energy transitions.</font>
+
+<img align="left" width="290" height="330" src="/files/projections_pic.PNG"> <font size="-1.2"> Sectoral expansions and contractions have significant worker-level and distributional consequences. Using linked employer-employee panel data from Brazil–a country that experienced oil booms and busts during the 2000s and 2010s–we estimate dynamic effects of being hired into the volatile oil and gas sector on workers’ subsequent wages, employment, and earnings. We find that oil generates inequality both between and within worker cohorts. Highly-educated early entrants capture nearly all the earnings benefits of the oil boom and are insulated from downturns by seniority and accumulation
+of institutional knowledge in professional roles within firms. Later high-education entrants must compete with a glut of new graduates from oil-specific degree programs,
+and suffer from “stranded careers” after oil busts. Low-education workers never enjoy earnings premiums during booms and lose their jobs during busts. Our findings contribute
+evidence on the job-creation potential of energy sectors and the distributional consequences of energy transitions.  </font>
 <br/>
-</details> 
 
 Agricultural Elites, Special Interest Politics, and Deforestation: Property-Level Evidence from the Amazon <br/> (_with [Fanny Moffette](https://fannymoffette.com/)_)
 <details><summary>Abstract</summary>
