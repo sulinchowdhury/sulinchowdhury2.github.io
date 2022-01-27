@@ -25,7 +25,7 @@ Agricultural Elites, Special Interest Politics, and Deforestation: Property-Leve
 <br/>
 
 <img align="left" width="280" height="280" src="/files/Politicians_Landowners_Merge_Map_Final.PNG"> <font size="-1.2"> When economic incentives to clear land for agriculture run up against centralized efforts to combat deforestation, do local politicians intercede to promote their own economic interests or those of their campaign supporters? How does the behavior of local politicians and special interest groups change when centralized enforcement efforts are relaxed? By combining comprehensive land registries for the Brazilian Amazon, data on local political candidates and campaign donors in five municipal elections between 2000-2016, and satellite data on deforestation and land use, we construct an original panel dataset of annual tree cover loss on properties belonging to political candidates and campaign donors in the Brazilian Amazon between 2000-2020. Drawing on this dataset, we estimate event studies around close municipal elections and find that deforestation decreases on landowning candidates’ properties while they are in office, but increases on the properties of their campaign donors. Our findings inform debates over the decentralization of resource governance, special interests and campaign finance, and resource conservation policy.  </font>
-<br/><br/>
+<br/><br/><br/>
 
 Can Natural Resources Promote Industrialization? Firms, Competition, and Spillovers from an Industrial Policy <br/>
 
