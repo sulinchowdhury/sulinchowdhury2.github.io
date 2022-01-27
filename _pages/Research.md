@@ -4,7 +4,7 @@ title: ""
 permalink: /Research/
 author_profile: true
 ---
-# *Work in Progress*<br/>
+**Work in Progress**<br/>
 
 The Presource Curse: Anticipation, Disappointment, and Governance after Oil Discoveries <br/>
 [Job Market Paper](/files/Katovich_PresourceCurse.pdf){:target="_blank"} &nbsp; [Slides (20 Minutes)](/files/Katovich_LACEA_2021.pdf){:target="_blank"} &nbsp; [Slides (75 Minutes)](/files/Katovich_PresourceCurse_JobTalk.pdf){:target="_blank"} &nbsp; [World Bank Development Impact Blog](https://blogs.worldbank.org/impactevaluations/governing-rocky-beginnings-resource-boom-how-do-local-governments-respond-oil) 
@@ -36,7 +36,7 @@ Can Natural Resources Promote Industrialization? Firms, Competition, and Spillov
 
 
 <br/>
-# *Publications*<br/>
+**Publications**<br/>
 
 The Relation Between Labor Productivity and Wages in Brazil: A Sectoral Analysis <br/>
 Erik S. Katovich and [Alexandre Gori Maia](https://www4.eco.unicamp.br/docentes/gori/)<br/>
@@ -55,7 +55,7 @@ Applied Economic Perspectives and Policy, Vol. 39, No. 2, pp. 286-312 (2017)<br/
 <font size="-1">This paper empirically examines whether GMO policies are “trade related” for countries in Latin America (LA). First, we use the Balassa index to assess the “revealed comparative advantage” of LA countries. We find that LA countries have a revealed comparative advantage in GMO industries relative to the world, and that intra-regional trade in these industries is modest relative to external trade. Second, we estimate the Gravity model to examine the effects of importers’ GMO policies on Argentina and Brazil’s bilateral exports of soybeans and maize. We find that strong GMO policies in importers have a negative effect on Argentina’s bilateral exports of soybeans (an industry and country with historically high GMO content). Further, we find that past GMO policies are a strong determinant of Argentina’s future bilateral exports, and that the negative trade effects of strong GMO policies are increasing over time. In contrast, we find a weaker relationship between the GMO policies of importers and Brazil’s bilateral exports (consistent with Brazil’s more recent increases in GMO content). These findings for Argentina and Brazil provide a benchmark for other developing countries that are looking for guidance on servicing trading partners with diverse GMO policies.</font>
 </details> <br/>
 
-# *Other Publications*<br/>
+**Other Publications**<br/>
 
 What do we really know about the impacts of improved grain legumes and dryland cereals: A critical review of impact studies<br/>
 Erik S. Katovich, Andrew W. Feist, [Karl Hughes](http://worldagroforestry.org/staff/karl-hughes), [Kai Mausch](http://worldagroforestry.org/staff/kai-mausch), and [Michael Hauser](https://www.icrisat.org/team/dr-michael-hauser/)<br/>
