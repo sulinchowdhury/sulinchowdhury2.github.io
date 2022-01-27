@@ -3,8 +3,7 @@ layout: archive
 title: ""
 permalink: /Research/
 author_profile: true
----
-**Work in Progress**<br/>
+---**Work in Progress**<br/>
 
 The Presource Curse: Anticipation, Disappointment, and Governance after Oil Discoveries <br/>
 [Job Market Paper](/files/Katovich_PresourceCurse.pdf){:target="_blank"} &nbsp; [Slides (20 Minutes)](/files/Katovich_LACEA_2021.pdf){:target="_blank"} &nbsp; [Slides (75 Minutes)](/files/Katovich_PresourceCurse_JobTalk.pdf){:target="_blank"} &nbsp; [World Bank Development Impact Blog](https://blogs.worldbank.org/impactevaluations/governing-rocky-beginnings-resource-boom-how-do-local-governments-respond-oil) 
