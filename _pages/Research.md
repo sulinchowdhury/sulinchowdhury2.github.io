@@ -4,7 +4,7 @@ title: ""
 permalink: /Research/
 author_profile: true
 ---
-<br/>
+
 **Work In Progress**<br/> 
 
 The Presource Curse: Anticipation, Disappointment, and Governance after Oil Discoveries <br/>
