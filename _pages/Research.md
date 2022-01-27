@@ -4,7 +4,8 @@ title: ""
 permalink: /Research/
 author_profile: true
 ---
-**Brazilian Data Resources**<br/> 
+<br/>
+**Work In Progress**<br/> 
 
 The Presource Curse: Anticipation, Disappointment, and Governance after Oil Discoveries <br/>
 [Job Market Paper](/files/Katovich_PresourceCurse.pdf){:target="_blank"} &nbsp; [Slides (20 Minutes)](/files/Katovich_LACEA_2021.pdf){:target="_blank"} &nbsp; [Slides (75 Minutes)](/files/Katovich_PresourceCurse_JobTalk.pdf){:target="_blank"} &nbsp; [World Bank Development Impact Blog](https://blogs.worldbank.org/impactevaluations/governing-rocky-beginnings-resource-boom-how-do-local-governments-respond-oil) 
@@ -36,7 +37,7 @@ Can Natural Resources Promote Industrialization? Firms, Competition, and Spillov
 
 
 <br/>
-**Publications**<br/>
+**Peer-Reviewed Publications**<br/>
 
 The Relation Between Labor Productivity and Wages in Brazil: A Sectoral Analysis <br/>
 Erik S. Katovich and [Alexandre Gori Maia](https://www4.eco.unicamp.br/docentes/gori/)<br/>
