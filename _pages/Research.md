@@ -11,7 +11,7 @@ The Presource Curse: Anticipation, Disappointment, and Governance after Oil Disc
 <br/>
 
 <img align="left" width="280" height="340" src="/files/projections_pic.PNG"> <font size="-1.2"> Resource discoveries are often followed by long delays and heterogeneous production realizations. Post-discovery uncertainty creates challenges for governance: policymakers may alter present behavior in anticipation of future revenues or struggle to adapt to disappointed expectations. I study how local governments and politicians react to offshore oil and gas discoveries in Brazil. I exploit quasi-experimental subnational variation in discoveries and subsequent production realizations to identify causal effects of news and revenue shocks on municipal public finances, public goods provision, and political competition, selection, and patronage. Using a forecasting model of offshore oil production, I decompose post-discovery impacts across places where production meets expectations and places that are left disappointed. Relative to never-treated controls, places that experience discovery announcements but never receive windfalls suffer significant declines in per capita investment and public goods spending after ten years. In contrast, places where discoveries are realized enjoy significant growth in per capita revenues and spending, but do not invest in economic diversification or improve public goods provision. These findings highlight the importance of accounting for dynamic treatment effects and heterogeneity in production outcomes after discovery announcements.  </font>
-<br/>
+<br/><br/>
 
 Labor Reallocation, Human Capital Investment, and 'Stranded Careers': Evidence from an Oil Boom and Bust  <br/> (_with [Dominic Parker](https://aae.wisc.edu/dparker/) and [Steven Poehlekke](https://unidirectory.auckland.ac.nz/profile/steven-poelhekke)_) [Working Paper](/files/Katovich_OilWorkers_WorkingPaper.pdf){:target="_blank"} &nbsp; [Slides (60 Minutes)](/files/Brazil_Oil_Boom_UWPresentation_2021_10.pdf){:target="_blank"}<br/>
 
@@ -19,13 +19,13 @@ Labor Reallocation, Human Capital Investment, and 'Stranded Careers': Evidence f
 of institutional knowledge in professional roles within firms. Later high-education entrants must compete with a glut of new graduates from oil-specific degree programs,
 and suffer from “stranded careers” after oil busts. Low-education workers never enjoy earnings premiums during booms and lose their jobs during busts. Our findings contribute
 evidence on the job-creation potential of energy sectors and the distributional consequences of energy transitions.  </font>
-<br/>
+<br/><br/>
 
 Agricultural Elites, Special Interest Politics, and Deforestation: Property-Level Evidence from the Amazon <br/> (_with [Fanny Moffette](https://fannymoffette.com/)_)
-<br/>
+<br/><br/>
 
 <img align="left" width="310" height="310" src="/files/Politicians_Landowners_Merge_Map_Final.PNG"> <font size="-1.2"> When economic incentives to clear land for agriculture run up against centralized efforts to combat deforestation, do local politicians intercede to promote their own economic interests or those of their campaign supporters? How does the behavior of local politicians and special interest groups change when centralized enforcement efforts are relaxed? By combining comprehensive land registries for the Brazilian Amazon, data on local political candidates and campaign donors in five municipal elections between 2000-2016, and satellite data on deforestation and land use, we construct an original panel dataset of annual tree cover loss on properties belonging to political candidates and campaign donors in the Brazilian Amazon between 2000-2020. Drawing on this dataset, we estimate event studies around close municipal elections and find that deforestation decreases on landowning candidates’ properties while they are in office, but increases on the properties of their campaign donors. Our findings inform debates over the decentralization of resource governance, special interests and campaign finance, and resource conservation policy.  </font>
-<br/>
+<br/><br/>
 
 Can Natural Resources Promote Industrialization? Firms, Competition, and Spillovers from an Industrial Policy <br/>
 
