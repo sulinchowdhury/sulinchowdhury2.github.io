@@ -8,6 +8,7 @@ author_profile: true
 
 Welcome! I am a PhD Candidate in the Department of Agricultural and Applied Economics at the University of Wisconsin-Madison. 
 <br/>
+<br/>
 
 My research lies in the fields of development economics, environmental and resource economics, and political economy. I use econometric and geospatial tools to study institutions of natural resource governance, structural transformation and industrial policies, and the effects of resource booms and energy transitions on governments, firms, and workers.  <br/>
 <br/>
