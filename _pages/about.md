@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 
-Welcome! I am a PhD Candidate in Agricultural and Applied Economics at the University of Wisconsin-Madison. I will be joining the Institute of Economics and Econometrics at the University of Geneva as a Postdoctoral Fellow in Fall 2022. 
+Welcome! I am a PhD Candidate in Agricultural and Applied Economics at the University of Wisconsin-Madison. I will join the Institute of Economics and Econometrics at the University of Geneva as a Postdoctoral Fellow in Fall 2022. 
 <br/>
 <br/>
 
