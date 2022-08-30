@@ -5,11 +5,14 @@ excerpt: "Contact me"
 author_profile: true
 ---
 
-Email: ekatovich@wisc.edu
+Email: erik.katovich@unige.ch
 
-Address: University of Wisconsin-Madison<br/>
-         427 Lorch Street<br/>
-         305 Taylor Hall<br/>
-         Madison, WI 53706-1513
+Address: University of Geneva<br/>
+         Uni Mail<br/>
+         40 Boulevard du Pont-d'Arve<br/>
+         1211 Geneva 4
+
+
+
          
 
