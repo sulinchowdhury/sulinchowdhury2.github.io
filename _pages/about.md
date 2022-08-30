@@ -13,6 +13,9 @@ Welcome! I am a Postdoctoral Fellow in the Institute of Economics and Econometri
 My research focuses on development, environmental and resource economics, and political economy. I use econometric and geospatial tools to study natural resource governance, structural transformation, and the effects of resource booms and energy transitions on governments, firms, and workers.  <br/>
 <br/>
 
-I earned a PhD in Agricultural and Applied Economics from the University of Wisconsin-Madison in 2022. Previously, I was a Fulbright Research Fellow at [Unicamp](https://www.eco.unicamp.br/nea/) in Brazil.
+I earned a PhD in Agricultural and Applied Economics from the [University of Wisconsin-Madison](https://aae.wisc.edu/) in 2022. Previously, I was a Fulbright Research Fellow at [Unicamp](https://www.eco.unicamp.br/nea/) in Brazil.
+
+
+
 
 
