@@ -14,6 +14,7 @@ Winning and Losing the Resource Lottery: Governance after Uncertain Oil Discover
 <br/><br/>
 
 <br/><br/>
+<br/><br/>
 Timing is Everything: Labor Market Winners and Losers from Energy Booms and Busts  <br/> (_with [Dominic Parker](https://aae.wisc.edu/dparker/) and [Steven Poehlekke](https://unidirectory.auckland.ac.nz/profile/steven-poelhekke)_) &nbsp; [Working Paper](/files/Katovich_OilWorkers_WorkingPaper.pdf){:target="_blank"} &nbsp; [Slides (60 Minutes)](/files/Katovich_OilWorkers_Slides_60Minutes.pdf){:target="_blank"}<br/>
 
 <img align="left" width="320" height="340" src="/files/earnings_pic2.PNG"> <font size="-1.2"> We use linked employer-employee panel data from Brazil to estimate
@@ -22,7 +23,6 @@ dynamic effects of being hired into the volatile oil and gas sector on workersâ€
 
 <br/><br/>
 Landholders, Local Politics, and Deforestation: Property-Level Evidence from the Amazon <br/> (_with [Fanny Moffette](https://fannymoffette.com/)_) &nbsp; Working Paper Coming Soon!
-<br/>
 
 <img align="left" width="320" height="350" src="/files/elections_pic3.PNG"> <font size="-1.2"> We combine individually identified land cadasters, registries of political candidates and campaign donors, and remote sensing data to construct a novel twenty-year panel of land use change on properties belonging to municipal politicians and donors in the Brazilian Amazon. We find that 25% of mayors elected between 2000-2016 are landholders, with the average landholding mayor owning 2.9
 properties totalling 2,898 hectares. 20% of landholding mayors receive at least one environmental violation, and their properties lose on average 41% of forest
