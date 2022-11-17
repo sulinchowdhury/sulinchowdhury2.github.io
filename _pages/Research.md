@@ -8,24 +8,23 @@ author_profile: true
 
 Winning and Losing the Resource Lottery: Governance after Uncertain Oil Discoveries <br/>
 [Job Market Paper](/files/Katovich_JMP_revised.pdf){:target="_blank"} &nbsp; [Slides](/files/Katovich_JobTalk_2022.pdf){:target="_blank"} &nbsp; [World Bank Development Impact Blog](https://blogs.worldbank.org/impactevaluations/governing-rocky-beginnings-resource-boom-how-do-local-governments-respond-oil) 
-<br/>
-<br/>
 <img align="left" width="320" height="460" src="/files/projections_pic3.PNG"> <font size="-1.2"> 
-<br/> 
+<br/> <br/> 
 Resource news shocks and revenue windfalls each generate distinct governance dynamics underlying the Resource Curse. Leveraging quasi-experimental subnational variation in offshore oil discoveries and subsequent revenue realizations in Brazil, I find that (i) municipalities where discoveries are realized enjoy significant growth in revenues and spending, but fail to improve public goods provision or stimulate economic activity; (ii) municipalities that experience discovery announcements but never receive anticipated windfalls suffer declines in revenues, investment, and public goods provision. Discovery announcements draw less-educated candidates into local politics, and shortfalls between anticipated and realized oil revenues reduce reelection rates for incumbents.  </font>
 <br/><br/>
 
 <br/><br/>
 <br/><br/>
-Timing is Everything: Labor Market Winners and Losers from Energy Booms and Busts  <br/> (_with [Dominic Parker](https://aae.wisc.edu/dparker/) and [Steven Poehlekke](https://unidirectory.auckland.ac.nz/profile/steven-poelhekke)_) &nbsp; [Working Paper](/files/Katovich_OilWorkers_WorkingPaper.pdf){:target="_blank"} &nbsp; [Slides (60 Minutes)](/files/Katovich_OilWorkers_Slides_60Minutes.pdf){:target="_blank"}<br/>
+Timing is Everything: Labor Market Winners and Losers from Energy Booms and Busts  <br/> (_with [Dominic Parker](https://aae.wisc.edu/dparker/) and [Steven Poehlekke](https://unidirectory.auckland.ac.nz/profile/steven-poelhekke)_) &nbsp; [Working Paper](/files/Katovich_OilWorkers_WorkingPaper.pdf){:target="_blank"} &nbsp; [Slides (60 Minutes)](/files/Katovich_OilWorkers_Slides_60Minutes.pdf){:target="_blank"}
 
-<img align="left" width="320" height="340" src="/files/earnings_pic2.PNG"> <font size="-1.2"> We use linked employer-employee panel data from Brazil to estimate
+<img align="left" width="320" height="340" src="/files/earnings_pic2.PNG"> <font size="-1.2"> 
+  <br/>
+We use linked employer-employee panel data from Brazil to estimate
 dynamic effects of being hired into the volatile oil and gas sector on workers’ labor market outcomes. Oil generates inequality both between and within worker cohorts. Highly educated workers hired at the beginning of an oil boom capture nearly all earnings and employment benefits of the boom and are insulated from downturns by job stability in knowledge-intensive roles. Later high-education entrants compete with a glut of oil-specific graduates and suffer from “stranded careers” after oil busts. Low-education workers never enjoy earnings premiums during booms, and lose their jobs during busts.  </font>
 <br/><br/>
 
 <br/><br/>
 Landholders, Local Politics, and Deforestation: Property-Level Evidence from the Amazon <br/> (_with [Fanny Moffette](https://fannymoffette.com/)_) &nbsp; Working Paper Coming Soon!
-
 <img align="left" width="320" height="350" src="/files/elections_pic3.PNG"> <font size="-1.2"> We combine individually identified land cadasters, registries of political candidates and campaign donors, and remote sensing data to construct a novel twenty-year panel of land use change on properties belonging to municipal politicians and donors in the Brazilian Amazon. We find that 25% of mayors elected between 2000-2016 are landholders, with the average landholding mayor owning 2.9
 properties totalling 2,898 hectares. 20% of landholding mayors receive at least one environmental violation, and their properties lose on average 41% of forest
 cover between 2000-2019. Estimating event studies around close mayoral elections, we find entry into office has no measurable effect on candidates’ personal
