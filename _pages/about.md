@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 
-Welcome! I am a Postdoctoral Fellow in the Institute of Economics and Econometrics at the University of Geneva. 
+Welcome! I am a Postdoctoral Scholar in the Institute of Economics and Econometrics at the University of Geneva. 
 <br/>
 <br/>
 
