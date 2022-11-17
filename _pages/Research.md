@@ -14,7 +14,6 @@ Resource news shocks and revenue windfalls each generate distinct governance dyn
 <br/><br/>
 
 <br/><br/>
-<br/><br/>
 Timing is Everything: Labor Market Winners and Losers from Energy Booms and Busts  <br/> (_with [Dominic Parker](https://aae.wisc.edu/dparker/) and [Steven Poehlekke](https://unidirectory.auckland.ac.nz/profile/steven-poelhekke)_) &nbsp; [Working Paper](/files/Katovich_OilWorkers_WorkingPaper.pdf){:target="_blank"} &nbsp; [Slides (60 Minutes)](/files/Katovich_OilWorkers_Slides_60Minutes.pdf){:target="_blank"}
 
 <img align="left" width="320" height="340" src="/files/earnings_pic2.PNG"> <font size="-1.2"> 
