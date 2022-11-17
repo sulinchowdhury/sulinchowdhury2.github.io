@@ -4,7 +4,7 @@ title: ""
 permalink: /Research/
 author_profile: true
 ---
-# **Work In Progress**<br/> 
+# **Working Papers**<br/> 
 
 Winning and Losing the Resource Lottery: Governance after Uncertain Oil Discoveries <br/>
 [Job Market Paper](/files/Katovich_JMP_revised.pdf){:target="_blank"} &nbsp; [Slides](/files/Katovich_JobTalk_2022.pdf){:target="_blank"} &nbsp; [World Bank Development Impact Blog](https://blogs.worldbank.org/impactevaluations/governing-rocky-beginnings-resource-boom-how-do-local-governments-respond-oil) 
@@ -29,6 +29,9 @@ land use, but significantly increases soy cultivation on their donors’ propert
 landholders leads to increased land conversion to soy, deforestation, and environmental violations. Landholder-financed mayors govern differently: they increase
 spending to promote agriculture and oversee expansion of rural credit. </font>
 <br/><br/><br/>
+
+
+# **Work in Progress**<br/>
 
 Can Natural Resources Promote Industrialization? Firms, Competition, and Spillovers from an Industrial Policy <br/>
 
