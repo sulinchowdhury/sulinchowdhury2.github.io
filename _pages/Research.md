@@ -17,7 +17,6 @@ discovery announcements but never receive anticipated windfalls suffer long-term
 responses underlie these dynamics. Discovery announcements draw less-educated candidates into local politics–potentially worsening rent-seeking and state capacity–and shortfalls between anticipated and realized oil revenues reduce reelection rates for incumbents–increasing turnover and disrupting public service delivery. Results highlight the importance of accounting for heterogeneity in discovery realizations, and reveal mismanagement of windfalls and adjustment costs after disappointment as two faces of the Resource Curse.  </font>
 <br/><br/>
 
-<br/><br/>
 Timing is Everything: Labor Market Winners and Losers from Energy Booms and Busts  <br/> (_with [Dominic Parker](https://aae.wisc.edu/dparker/) and [Steven Poehlekke](https://unidirectory.auckland.ac.nz/profile/steven-poelhekke)_) &nbsp; [Working Paper](/files/Katovich_OilWorkers_WorkingPaper.pdf){:target="_blank"} &nbsp; [Slides (60 Minutes)](/files/Katovich_OilWorkers_Slides_60Minutes.pdf){:target="_blank"}
 
 <img align="left" width="320" height="340" src="/files/earnings_pic2.PNG"> <font size="-1.2"> 
