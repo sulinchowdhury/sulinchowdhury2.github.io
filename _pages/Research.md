@@ -11,7 +11,11 @@ Winning and Losing the Resource Lottery: Governance after Uncertain Oil Discover
 
 <img align="left" width="320" height="460" src="/files/projections_pic3.PNG"> <font size="-1.2"> 
 <br/> <br/> 
-Resource news shocks and revenue windfalls each generate distinct governance dynamics underlying the Resource Curse. Leveraging quasi-experimental subnational variation in offshore oil discoveries and subsequent revenue realizations in Brazil, I find that (i) municipalities where discoveries are realized enjoy significant growth in revenues and spending, but fail to improve public goods provision or stimulate economic activity; (ii) municipalities that experience discovery announcements but never receive anticipated windfalls suffer declines in revenues, investment, and public goods provision. Discovery announcements draw less-educated candidates into local politics, and shortfalls between anticipated and realized oil revenues reduce reelection rates for incumbents.  </font>
+Natural resource news shocks and revenue windfalls each generate distinct governance dynamics underlying the Resource Curse. Leveraging quasi-experimental
+subnational variation in offshore oil discoveries and subsequent revenue realizations in Brazil, I find that (i) municipalities where discoveries are realized
+enjoy significant growth in revenues and spending, but fail to improve public goods provision or stimulate local economic activity; (ii) municipalities that experience
+discovery announcements but never receive anticipated windfalls suffer long-term declines in revenues, investment, and public goods provision. Electoral
+responses underlie these dynamics. Discovery announcements draw less-educated candidates into local politics–potentially worsening rent-seeking and state capacity–and shortfalls between anticipated and realized oil revenues reduce reelection rates for incumbents–increasing turnover and disrupting public service delivery. Results highlight the importance of accounting for heterogeneity in discovery realizations, and reveal mismanagement of windfalls and adjustment costs after disappointment as two faces of the Resource Curse.  </font>
 <br/><br/>
 
 <br/><br/>
