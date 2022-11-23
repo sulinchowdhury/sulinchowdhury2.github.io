@@ -10,7 +10,6 @@ Winning and Losing the Resource Lottery: Governance after Uncertain Oil Discover
 [Job Market Paper](/files/Katovich_JMP_revised.pdf){:target="_blank"} &nbsp; [Slides](/files/Katovich_JobTalk_2022.pdf){:target="_blank"} &nbsp; [World Bank Development Impact Blog](https://blogs.worldbank.org/impactevaluations/governing-rocky-beginnings-resource-boom-how-do-local-governments-respond-oil) <br/>
 
 <img align="left" width="320" height="460" src="/files/projections_pic3.PNG"> <font size="-1.2"> 
-<br/> <br/> 
 Natural resource news shocks and revenue windfalls each generate distinct governance dynamics underlying the Resource Curse. Leveraging quasi-experimental
 subnational variation in offshore oil discoveries and subsequent revenue realizations in Brazil, I find that (i) municipalities where discoveries are realized
 enjoy significant growth in revenues and spending, but fail to improve public goods provision or stimulate local economic activity; (ii) municipalities that experience
