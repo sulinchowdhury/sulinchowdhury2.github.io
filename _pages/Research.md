@@ -2,7 +2,7 @@
 layout: archive
 title: ""
 permalink: /Research/
-author_profile: true
+author_profile: false
 ---
 # **Working Papers**<br/> 
 
