@@ -43,8 +43,6 @@ Can Natural Resources Promote Industrialization? Firms, Competition, and Spillov
 <br/>
 </details> 
 
-<br/><br/>
-
 Skills or Scars? The Legacy of Mining Booms on Firm and Worker Capabilities <br/>
 
 Pipelines, Crime, and Local Development in Mexico (_with [Itzel de Haro Lopez](https://itzeldeharo.com/)_) <br/>
