@@ -34,7 +34,6 @@ Quantifying the Effects of Fracking and Wind Turbines on Bird Populations and Bi
 Christmas Bird Count with geolocated registries of all wind turbines and shale wells constructed during this period to estimate the effects of these energy land-use changes on bird populations and biodiversity, which are key bellwethers of ecosystem health. Results show that the onset of shale oil and gas production reduces subsequent bird population counts by 16% -- or 4.25 birds per well drilled -- even after adjusting for location and year fixed effects, weather, and counting effort. Wind turbines do not have any measurable impact on bird counts. Negative effects of shale are not driven by changes in human population, and are larger when wells are drilled within important bird habitats. </font>
 <br/><br/><br/>
 
-<br/>
 # **Work in Progress**<br/>
 
 Can Natural Resources Promote Industrialization? Firms, Competition, and Spillovers from an Industrial Policy <br/>
@@ -43,7 +42,9 @@ Can Natural Resources Promote Industrialization? Firms, Competition, and Spillov
 <br/>
 
 
+Skills or Scars? The Legacy of Mining Booms on Firm and Worker Capabilities <br/>
 
+Pipelines, Crime, and Local Development in Mexico <br/> (_with [Itzel de Haro Lopez](https://itzeldeharo.com/)_) <br/>
 
 <br/>
 # **Peer-Reviewed Publications**<br/>
