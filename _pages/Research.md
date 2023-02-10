@@ -38,9 +38,12 @@ Christmas Bird Count with geolocated registries of all wind turbines and shale w
 
 Can Natural Resources Promote Industrialization? Firms, Competition, and Spillovers from an Industrial Policy <br/>
 
-<img align="left" width="320" height="460" src="/files/lcr_pic3.PNG"> <font size="-1.2"> Industrial policies are hotly debated, but empirical evidence of their efficacy and underlying mechanisms is thin. I evaluate a common industrial policy–a local content requirement (LCR)–which requires multinational firms to source a percentage of their inputs from local suppliers. Using firm-level panel data from Brazil, I measure whether an LCR for the oil sector increased manufacturing firm growth, innovation, and productivity among upstream input-suppliers, or instead led to rent-seeking and inefficiencies. Competition is a primary mechanism underlying successful industrial policies. I measure whether targeted firms in more competitive subsectors exhibit higher productivity growth relative to firms in less competitive subsectors after introduction of the policy. Another justification of industrial policies is their potential to create positive spillovers. By measuring supply-chain linkages and distance between targeted and non-targeted firms, I estimate spillover effects of the LCR on the broader manufacturing sector. Finally, I leverage data on campaign donations made by LCR beneficiary firms and firm owners to explore the role of special interest politics in sustaining the LCR.  </font>
-<br/><br/>
+<details><summary>Click for Abstract</summary>
+<font size="-1">Industrial policies are hotly debated, but empirical evidence of their efficacy and underlying mechanisms is thin. I evaluate a common industrial policy–a local content requirement (LCR)–which requires multinational firms to source a percentage of their inputs from local suppliers. Using firm-level panel data from Brazil, I measure whether an LCR for the oil sector increased manufacturing firm growth, innovation, and productivity among upstream input-suppliers, or instead led to rent-seeking and inefficiencies. Competition is a primary mechanism underlying successful industrial policies. I measure whether targeted firms in more competitive subsectors exhibit higher productivity growth relative to firms in less competitive subsectors after introduction of the policy. Another justification of industrial policies is their potential to create positive spillovers. By measuring supply-chain linkages and distance between targeted and non-targeted firms, I estimate spillover effects of the LCR on the broader manufacturing sector. Finally, I leverage data on campaign donations made by LCR beneficiary firms and firm owners to explore the role of special interest politics in sustaining the LCR.</font>
+<br/>
+</details> 
 
+<br/><br/>
 
 Skills or Scars? The Legacy of Mining Booms on Firm and Worker Capabilities <br/>
 
