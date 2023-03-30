@@ -21,9 +21,14 @@ Sectoral expansions and contractions require labor reallocation between declinin
 <br/><br/>
 
 <br/>
-The Political Economy of Tropical Land Use: Property-Level Evidence from the Amazon (_with [Fanny Moffette](https://fannymoffette.com/)_) <br/> [Working Paper](/files/Katovich_Moffette_WorkingPaper_AmazonLandUse.pdf){:target="_blank"} <br/>
+Does Local Politics Drive Tropical Land-Use Change? Property-Level Evidence from the Amazon (_with [Fanny Moffette](https://fannymoffette.com/)_) <br/> [Working Paper](/files/Katovich_Moffette_Manuscript.pdf){:target="_blank"} <br/>
 
-<img align="left" width="320" height="360" src="/files/Highlights.PNG"> <font size="-1.2"> We combine individually-identified land cadasters, registries of political candidates and campaign donors, and remote sensing data to construct a novel twenty-year panel of land use change on properties belonging to municipal politicians and donors in the Brazilian Amazon. Estimating event studies around close mayoral elections, we find that winning candidates -- and their campaign donors -- increase soy cultivation while the candidate is in office, suggesting local political connections help landholders overcome barriers to adoption for this high-value crop. At the municipal-level, close election of a mayor with personal landholdings has no effect on land use or environmental outcomes, but election of a mayor who received campaign donations from landholders leads to increased soy cultivation, deforestation, and environmental violations. Landholder-financed mayors weakly increase municipal spending on agricultural promotion and oversee expansion of rural credit. Results reveal a channel of "land-use patronage" and highlight interconnections between local politics, land use, and environmental governance. </font>
+<img align="left" width="320" height="360" src="/files/Highlights.PNG"> <font size="-1.2"> Land conversion to agriculture is a defining environmental challenge for tropical regions. We construct a novel panel of land-use change on the properties of municipal politicians and campaign donors in the Brazilian Amazon to assess three channels through which local politics may drive land conversion: (i) leaders’ self-interest, (ii) patronage, and (iii) interest group influence. Estimating event
+studies around close mayoral elections, we find that winning candidates – and their campaign donors – increase soy cultivation while the candidate is in office,
+suggesting political connections help landholders overcome barriers to adoption for this high-value crop. At the municipal-level, close election of a mayor with
+personal landholdings has no effect on land-use or environmental outcomes, but election of a mayor who received campaign donations from landholders increases
+soy cultivation, deforestation, and environmental violations. Results provide nuanced evidence for each channel of political influence, with implications for the
+design of conservation policies. </font>
 <br/><br/>
 
 Quantifying the Effects of Fracking and Wind Turbines on Bird Populations and Biodiversity <br/> 
