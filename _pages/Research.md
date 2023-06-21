@@ -21,7 +21,7 @@ Sectoral expansions and contractions require labor reallocation between declinin
 <br/><br/>
 
 <br/>
-Does Local Politics Drive Tropical Land-Use Change? Property-Level Evidence from the Amazon (_with [Fanny Moffette](https://fannymoffette.com/)_) <br/> [Working Paper](/files/Katovich_Moffette_Manuscript.pdf){:target="_blank"} <br/>
+Does Local Politics Drive Tropical Land-Use Change? Property-Level Evidence from the Amazon (_with [Fanny Moffette](https://fannymoffette.com/)_) <br/> [Working Paper](/files/Katovich_Moffette_Manuscript.pdf){:target="_blank"} &nbsp; [Slides](/files/Katovich_Moffette_Slides_EAERE2023.pdf){:target="_blank"} <br/>
 
 <img align="left" width="320" height="360" src="/files/Highlights.PNG"> <font size="-1.2"> Land conversion to agriculture is a defining environmental challenge for tropical regions. We construct a novel panel of land-use change on the properties of municipal politicians and campaign donors in the Brazilian Amazon to assess three channels through which local politics may drive land conversion: (i) leaders’ self-interest, (ii) patronage, and (iii) interest group influence. Estimating event
 studies around close mayoral elections, we find that winning candidates – and their campaign donors – increase soy cultivation while the candidate is in office,
