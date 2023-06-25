@@ -10,7 +10,7 @@ Welcome! I am a Postdoctoral Scholar in the [Institute of Economics and Economet
 <br/>
 <br/>
 
-My research focuses on development economics, environmental and resource economics, and political economy. I use econometric and geospatial tools to study natural resource governance and the effects of resource booms and energy transitions on governments, firms, workers, and the environment.  <br/>
+My research focuses on development economics, environmental and natural resource economics, and political economy. I use econometric and geospatial tools to study natural resource governance and the effects of resource booms and energy transitions on governments, firms, workers, and the environment.  <br/>
 <br/>
 
 I earned my PhD from the [University of Wisconsin-Madison](https://aae.wisc.edu/) in 2022. Previously, I was a Fulbright Research Fellow at [Unicamp](https://www.eco.unicamp.br/nea/) in Brazil.
