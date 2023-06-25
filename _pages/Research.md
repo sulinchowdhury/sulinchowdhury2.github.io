@@ -41,6 +41,7 @@ Christmas Bird Count with geolocated registries of all wind turbines and shale w
 # **Work in Progress**<br/>
 
 Can Natural Resources Promote Industrialization? Firms, Competition, and Spillovers from an Industrial Policy <br/>
+Funded by [STEG Small Research Grant](https://steg.cepr.org/projects/can-natural-resources-promote-industrialisation-firms-competition-and-spillovers) <br/>
 
 <details><summary>Click for Abstract</summary>
 <font size="-1">Industrial policies are hotly debated, but empirical evidence of their efficacy and underlying mechanisms is thin. I evaluate a common industrial policy–a local content requirement (LCR)–which requires multinational firms to source a percentage of their inputs from local suppliers. Using firm-level panel data from Brazil, I measure whether an LCR for the oil sector increased manufacturing firm growth, innovation, and productivity among upstream input-suppliers, or instead led to rent-seeking and inefficiencies. Competition is a primary mechanism underlying successful industrial policies. I measure whether targeted firms in more competitive subsectors exhibit higher productivity growth relative to firms in less competitive subsectors after introduction of the policy. Another justification of industrial policies is their potential to create positive spillovers. By measuring supply-chain linkages and distance between targeted and non-targeted firms, I estimate spillover effects of the LCR on the broader manufacturing sector. Finally, I leverage data on campaign donations made by LCR beneficiary firms and firm owners to explore the role of special interest politics in sustaining the LCR.</font>
@@ -48,13 +49,15 @@ Can Natural Resources Promote Industrialization? Firms, Competition, and Spillov
 </details> 
 
 <br/>
-Job Creation and Local Spillovers Across the Mining Lifecycle <br/> (_with [Steven Poehlekke](https://sites.google.com/site/stevenpoelhekke/) and Fabio Maciel_)
+Human Capital Development and Local Labor Market Spillovers Across the Mining Lifecycle <br/> (_with [Steven Poehlekke](https://sites.google.com/site/stevenpoelhekke/) and Fabio Maciel_)
 
-Oil Production under Subsidies: Evidence from the US Royalty Relief Program <br/> (_with [Julien Daubanes](https://www.jxdaubanes.com/)), [Saraly Andrade de Sa](https://www.unige.ch/gsem/en/research/faculty/fellows/saraly-andrade-de-sa), [Diego Cardoso](https://www.diegoscardoso.com/), and Pritam Saha_)
+Oil Production under Subsidies: Evidence from the US Royalty Relief Program <br/> (_with [Julien Daubanes](https://www.jxdaubanes.com/), [Saraly Andrade de Sa](https://www.unige.ch/gsem/en/research/faculty/fellows/saraly-andrade-de-sa), [Diego Cardoso](https://www.diegoscardoso.com/), and Pritam Saha_)
 
 Adaptation and Resilience: How do Oil Companies Respond to International Sanctions?
 
 Local Content Policies and Reorganization in the Global Mining Industry <br/> (_with [Jonah Rexer](https://www.jonahrexer.com/)_)
+
+Sustainability and Quality-Upgrading in Cacao Supply Chains: Experimental Evidence from Ghana <br/> (_with [Salvatore di Falco](https://sdifalco.weebly.com/) and Utsoree Das_) Funded by [Horizons Europe "Transformative Pathways" Project](https://transpath.eu/) <br/>
 
 Pipelines, Crime, and Local Development in Mexico <br/> (_with [Itzel de Haro Lopez](https://itzeldeharo.com/)_) 
 
