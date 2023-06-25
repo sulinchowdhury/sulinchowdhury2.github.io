@@ -31,7 +31,7 @@ soy cultivation, deforestation, and environmental violations. Results provide nu
 design of conservation policies. </font>
 <br/><br/>
 
-Quantifying the Effects of Fracking and Wind Turbines on Bird Populations and Biodiversity <br/>  (_R&R at Environmental Science and Technology_) <br/> 
+Quantifying the Effects of Energy Land-Use Changes on Bird Populations and Biodiversity <br/>  (_R&R at Environmental Science and Technology_) <br/> 
 [Working Paper](/files/Katovich_Birds_and_Energy.pdf){:target="_blank"}
 
 <img align="left" width="320" height="260" src="/files/birds_maps_snip_3.JPG"> <font size="-1.2"> Shale oil and gas production and wind energy generation both expanded rapidly across the United States between 2000-2020, raising concerns over impacts on wildlife. I combine longitudinal micro-data from the National Audubon Society’s
