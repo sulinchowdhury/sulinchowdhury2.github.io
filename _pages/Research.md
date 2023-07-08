@@ -6,14 +6,14 @@ author_profile: false
 ---
 # **Working Papers**<br/> 
 
-Winning and Losing the Resource Lottery: Governance after Uncertain Oil Discoveries <br/> (_Under Review_) <br/>
+**Winning and Losing the Resource Lottery: Governance after Uncertain Oil Discoveries** <br/> (_Under Review_) <br/>
 [Working Paper](/files/Katovich_JMP.pdf){:target="_blank"} &nbsp; [Slides](/files/Katovich_Winning_the_Resource_Lottery_Slides.pdf){:target="_blank"} &nbsp; [World Bank Development Impact Blog](https://blogs.worldbank.org/impactevaluations/governing-rocky-beginnings-resource-boom-how-do-local-governments-respond-oil) <br/>
 
 <img align="left" width="320" height="460" src="/files/projections_pic3.PNG"> <font size="-1.2"> 
 Natural resource discoveries lead to anticipation, uncertainty, and potentially large revenue windfalls for local governments. I leverage exogenous subnational variation in offshore oil discoveries in Brazil to identify dynamic effects of news and revenue shocks on local public finances, public goods provision, and politics. Municipalities where discoveries are realized enjoy significant growth in revenues and spending, but fail to improve public goods provision or stimulate local economic activity. Municipalities that experience discovery news shocks but never receive windfalls suffer long-term declines in revenues, investment, and public goods provision relative to never-treated controls. I show that electoral responses underlie these dynamics: discovery announcements draw less-educated candidates into local politics, and shortfalls between anticipated and realized oil revenues increase political turnover. These findings highlight the importance of accounting for heterogeneity in discovery realizations, and reveal mismanagement of windfalls and adjustment costs after disappointment as two faces of the Resource Curse.  </font>
 <br/><br/>
 
-Timing is Everything: Labor Market Winners and Losers during Boom-Bust Cycles  <br/> (_with [Dominic Parker](https://aae.wisc.edu/dparker/) and [Steven Poehlekke](https://sites.google.com/site/stevenpoelhekke/)_) (_Under Review_) <br/> [Working Paper](/files/Katovich_Parker_Poelhekke_TimingIsEverything.pdf){:target="_blank"} &nbsp; [CEPR Discussion Paper](https://cepr.org/publications/dp17887) &nbsp; [Slides (English)](/files/Katovich_Timing_is_Everything_Slides.pdf){:target="_blank"} &nbsp; [Slides (Portuguese)](/files/Katovich_Ipea_Slides.pdf){:target="_blank"} &nbsp; [Ipea Webinar (Portuguese)](https://www.youtube.com/watch?v=oqSdEmHB6YA){:target="_blank"}
+**Timing is Everything: Labor Market Winners and Losers during Boom-Bust Cycles**  <br/> (_with [Dominic Parker](https://aae.wisc.edu/dparker/) and [Steven Poehlekke](https://sites.google.com/site/stevenpoelhekke/)_) (_Under Review_) <br/> [Working Paper](/files/Katovich_Parker_Poelhekke_TimingIsEverything.pdf){:target="_blank"} &nbsp; [CEPR Discussion Paper](https://cepr.org/publications/dp17887) &nbsp; [Slides (English)](/files/Katovich_Timing_is_Everything_Slides.pdf){:target="_blank"} &nbsp; [Slides (Portuguese)](/files/Katovich_Ipea_Slides.pdf){:target="_blank"} &nbsp; [Ipea Webinar (Portuguese)](https://www.youtube.com/watch?v=oqSdEmHB6YA){:target="_blank"}
 
 <img align="left" width="320" height="340" src="/files/earnings_pic2.PNG"> <font size="-1.2"> 
   <br/>
@@ -21,7 +21,7 @@ Sectoral expansions and contractions require labor reallocation between declinin
 <br/><br/>
 
 <br/>
-Does Local Politics Drive Tropical Land-Use Change? Property-Level Evidence from the Amazon <br/> (_with [Fanny Moffette](https://fannymoffette.com/)_) (_Under Review_) <br/> [Working Paper](/files/Katovich_Moffette_Manuscript.pdf){:target="_blank"} &nbsp; [Slides](/files/Katovich_Moffette_Slides_EAERE2023.pdf){:target="_blank"} <br/>
+**Does Local Politics Drive Tropical Land-Use Change? Property-Level Evidence from the Amazon** <br/> (_with [Fanny Moffette](https://fannymoffette.com/)_) (_Under Review_) <br/> [Working Paper](/files/Katovich_Moffette_Manuscript.pdf){:target="_blank"} &nbsp; [Slides](/files/Katovich_Moffette_Slides_EAERE2023.pdf){:target="_blank"} <br/>
 
 <img align="left" width="320" height="360" src="/files/Highlights.PNG"> <font size="-1.2"> Land conversion to agriculture is a defining environmental challenge for tropical regions. We construct a novel panel of land-use change on the properties of municipal politicians and campaign donors in the Brazilian Amazon to assess three channels through which local politics may drive land conversion: (i) leaders’ self-interest, (ii) patronage, and (iii) interest group influence. Estimating event
 studies around close mayoral elections, we find that winning candidates – and their campaign donors – increase soy cultivation while the candidate is in office,
@@ -31,7 +31,7 @@ soy cultivation, deforestation, and environmental violations. Results provide nu
 design of conservation policies. </font>
 <br/><br/>
 
-Quantifying the Effects of Energy Land-Use Changes on Bird Populations and Biodiversity <br/>  (_R&R at Environmental Science and Technology_) <br/> 
+**Quantifying the Effects of Energy Land-Use Changes on Bird Populations and Biodiversity** <br/>  (_R&R at Environmental Science and Technology_) <br/> 
 [Working Paper](/files/Katovich_EnergyLandUses_and_Birds.pdf){:target="_blank"}
 
 <img align="left" width="320" height="260" src="/files/birds_maps_snip_3.JPG"> <font size="-1.2"> Shale oil and gas production and wind energy generation both expanded rapidly across the United States between 2000-2020, raising concerns over impacts on wildlife. I combine longitudinal micro-data from the National Audubon Society’s
@@ -40,7 +40,7 @@ Christmas Bird Count with geolocated registries of all wind turbines and shale w
 
 # **Work in Progress**<br/>
 
-Can Natural Resources Promote Industrialization? Firms, Competition, and Spillovers from an Industrial Policy <br/>
+**Can Natural Resources Promote Industrialization? Firms, Competition, and Spillovers from an Industrial Policy** <br/>
 Funded by [STEG Small Research Grant](https://steg.cepr.org/projects/can-natural-resources-promote-industrialisation-firms-competition-and-spillovers) <br/>
 
 <details><summary>Click for Abstract</summary>
@@ -49,24 +49,24 @@ Funded by [STEG Small Research Grant](https://steg.cepr.org/projects/can-natural
 </details> 
 
 <br/>
-Human Capital Development and Local Spillovers Across the Mining Lifecycle <br/> (_with [Steven Poehlekke](https://sites.google.com/site/stevenpoelhekke/) and Fabio Maciel_)
+**Human Capital and Local Spillovers Across the Mining Lifecycle** <br/> (_with [Steven Poehlekke](https://sites.google.com/site/stevenpoelhekke/) and Fabio Maciel_)
 
-Oil Production under Subsidies: Evidence from the US Royalty Relief Program <br/> (_with [Julien Daubanes](https://www.jxdaubanes.com/), [Saraly Andrade de Sa](https://www.unige.ch/gsem/en/research/faculty/fellows/saraly-andrade-de-sa), [Diego Cardoso](https://www.diegoscardoso.com/), and Pritam Saha_)
+**Oil Production under Subsidies: Evidence from the US Royalty Relief Program** <br/> (_with [Julien Daubanes](https://www.jxdaubanes.com/), [Saraly Andrade de Sa](https://www.unige.ch/gsem/en/research/faculty/fellows/saraly-andrade-de-sa), [Diego Cardoso](https://www.diegoscardoso.com/), and Pritam Saha_)
 
-Adaptation and Resilience: How do Oil Companies Respond to International Sanctions?
+**Adaptation and Resilience: How do Oil Companies Respond to International Sanctions?**
 
-Local Content Policies and Reorganization in the Global Mining Industry <br/> (_with [Jonah Rexer](https://www.jonahrexer.com/)_)
+**Local Content Policies and Reorganization in the Global Mining Industry** <br/> (_with [Jonah Rexer](https://www.jonahrexer.com/)_)
 
-Sustainability and Quality-Upgrading in Cacao Supply Chains: Experimental Evidence from Ghana <br/> (_with [Salvatore di Falco](https://sdifalco.weebly.com/) and Utsoree Das_) Funded by [Horizons Europe "Transformative Pathways" Project](https://transpath.eu/) <br/>
+**Sustainability and Quality-Upgrading in Cacao Supply Chains: Experimental Evidence from Ghana** <br/> (_with [Salvatore di Falco](https://sdifalco.weebly.com/) and Utsoree Das_) Funded by [Horizons Europe "Transformative Pathways" Project](https://transpath.eu/) <br/>
 
-Pipelines, Crime, and Local Development in Mexico <br/> (_with [Itzel de Haro Lopez](https://itzeldeharo.com/)_) 
+**Pipelines, Crime, and Local Development in Mexico** <br/> (_with [Itzel de Haro Lopez](https://itzeldeharo.com/)_) 
 
 
 
 <br/>
 # **Peer-Reviewed Publications**<br/>
 
-The Relation Between Labor Productivity and Wages in Brazil: A Sectoral Analysis <br/>
+**The Relation Between Labor Productivity and Wages in Brazil: A Sectoral Analysis** <br/>
 Erik S. Katovich and [Alexandre Gori Maia](https://www4.eco.unicamp.br/docentes/gori/)<br/>
 Nova Economia, Vol. 28, No. 1, pp. 7-38 (2018)<br/>
 [PDF](/files/Katovich_Maia_NovaEconomia.pdf){:target="_blank"} &nbsp; [Published Version](https://doi.org/10.1590/0103-6351/3943){:target="_blank"} <br/>
@@ -75,7 +75,7 @@ Nova Economia, Vol. 28, No. 1, pp. 7-38 (2018)<br/>
 <br/>
 </details> 
 
-Are GMO Policies "Trade Related"? Empirical Analysis of Latin America <br/>
+**Are GMO Policies "Trade Related"? Empirical Analysis of Latin America** <br/>
 [Pamela J. Smith](https://www.apec.umn.edu/people/pamela-smith) and Erik S. Katovich<br/>
 Applied Economic Perspectives and Policy, Vol. 39, No. 2, pp. 286-312 (2017)<br/>
 [Published Version](https://doi.org/10.1093/aepp/ppw021){:target="_blank"} <br/>
