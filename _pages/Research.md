@@ -6,13 +6,6 @@ author_profile: false
 ---
 # **Working Papers**<br/> 
 
-**Winning and Losing the Resource Lottery: Governance after Uncertain Oil Discoveries** <br/> (_Under Review_) <br/>
-[Working Paper](/files/Katovich_Winning_and_Losing_the_Resource_Lottery_Governance_after_Uncertain_Oil_Discoveries.pdf){:target="_blank"} &nbsp; [Slides](/files/Katovich_Winning_the_Resource_Lottery_Slides.pdf){:target="_blank"} &nbsp; [World Bank Development Impact Blog](https://blogs.worldbank.org/impactevaluations/governing-rocky-beginnings-resource-boom-how-do-local-governments-respond-oil) <br/>
-
-<img align="left" width="320" height="460" src="/files/projections_pic3.PNG"> <font size="-1.2"> 
-Natural resource discoveries lead to anticipation, uncertainty, and potentially large revenue windfalls for local governments. I leverage exogenous subnational variation in offshore oil discoveries in Brazil to identify dynamic effects of news and revenue shocks on local public finances, public goods provision, and politics. Municipalities where discoveries are realized enjoy significant growth in revenues and spending, but fail to improve public goods provision or stimulate local economic activity. Municipalities that experience discovery news shocks but never receive windfalls suffer long-term declines in revenues, investment, and public goods provision relative to never-treated controls. I show that electoral responses underlie these dynamics: discovery announcements draw less-educated candidates into local politics, and shortfalls between anticipated and realized oil revenues increase political turnover. These findings highlight the importance of accounting for heterogeneity in discovery realizations, and reveal mismanagement of windfalls and adjustment costs after disappointment as two faces of the Resource Curse.  </font>
-<br/><br/>
-
 **Timing is Everything: Labor Market Winners and Losers during Boom-Bust Cycles**  <br/> (_with [Dominic Parker](https://aae.wisc.edu/dparker/) and [Steven Poehlekke](https://sites.google.com/site/stevenpoelhekke/)_) (_Under Review_) <br/> [Working Paper](/files/Katovich_Parker_Poelhekke_TimingIsEverything.pdf){:target="_blank"} &nbsp; [CEPR Discussion Paper](https://cepr.org/publications/dp17887) &nbsp; [Slides (English)](/files/Katovich_Timing_is_Everything_Slides.pdf){:target="_blank"} &nbsp; [Slides (Portuguese)](/files/Katovich_Ipea_Slides.pdf){:target="_blank"} &nbsp; [Ipea Webinar (Portuguese)](https://www.youtube.com/watch?v=oqSdEmHB6YA){:target="_blank"}
 
 <img align="left" width="320" height="340" src="/files/earnings_pic2.PNG"> <font size="-1.2"> 
@@ -21,7 +14,7 @@ Sectoral expansions and contractions require labor reallocation between declinin
 <br/><br/>
 
 <br/>
-**Does Local Politics Drive Tropical Land-Use Change? Property-Level Evidence from the Amazon** <br/> (_with [Fanny Moffette](https://fannymoffette.com/)_) (_Under Review_) <br/> [Working Paper](/files/Katovich_Moffette_Manuscript.pdf){:target="_blank"} &nbsp; [Slides](/files/Katovich_Moffette_Slides_EAERE2023.pdf){:target="_blank"} <br/>
+**Does Local Politics Drive Tropical Land-Use Change? Property-Level Evidence from the Amazon** <br/> (_with [Fanny Moffette](https://fannymoffette.com/)_) (_R&R at The Economic Journal_) <br/> [Working Paper](/files/Katovich_Moffette_Manuscript.pdf){:target="_blank"} &nbsp; [Slides](/files/Katovich_Moffette_Slides_EAERE2023.pdf){:target="_blank"} <br/>
 
 <img align="left" width="320" height="360" src="/files/Highlights.PNG"> <font size="-1.2"> Land conversion to agriculture is a defining environmental challenge for tropical regions. We construct a novel panel of land-use change on the properties of municipal politicians and campaign donors in the Brazilian Amazon to assess three channels through which local politics may drive land conversion: (i) leaders’ self-interest, (ii) patronage, and (iii) interest group influence. Estimating event
 studies around close mayoral elections, we find that winning candidates – and their campaign donors – increase soy cultivation while the candidate is in office,
@@ -29,7 +22,14 @@ suggesting political connections help landholders overcome barriers to adoption 
 personal landholdings has no effect on land-use or environmental outcomes, but election of a mayor who received campaign donations from landholders increases
 soy cultivation, deforestation, and environmental violations. Results provide nuanced evidence for each channel of political influence, with implications for the
 design of conservation policies. </font>
-<br/><br/>
+<br/>
+
+**Winning and Losing the Resource Lottery: Governance after Uncertain Oil Discoveries** <br/> (_Under Review_) <br/>
+[Working Paper](/files/Katovich_Winning_and_Losing_the_Resource_Lottery_Governance_after_Uncertain_Oil_Discoveries.pdf){:target="_blank"} &nbsp; [Slides](/files/Katovich_Winning_the_Resource_Lottery_Slides.pdf){:target="_blank"} &nbsp; [World Bank Development Impact Blog](https://blogs.worldbank.org/impactevaluations/governing-rocky-beginnings-resource-boom-how-do-local-governments-respond-oil) <br/>
+
+<img align="left" width="320" height="460" src="/files/projections_pic3.PNG"> <font size="-1.2"> 
+Natural resource discoveries lead to anticipation, uncertainty, and potentially large revenue windfalls for local governments. I leverage exogenous subnational variation in offshore oil discoveries in Brazil to identify dynamic effects of news and revenue shocks on local public finances, public goods provision, and politics. Municipalities where discoveries are realized enjoy significant growth in revenues and spending, but fail to improve public goods provision or stimulate local economic activity. Municipalities that experience discovery news shocks but never receive windfalls suffer long-term declines in revenues, investment, and public goods provision relative to never-treated controls. I show that electoral responses underlie these dynamics: discovery announcements draw less-educated candidates into local politics, and shortfalls between anticipated and realized oil revenues increase political turnover. These findings highlight the importance of accounting for heterogeneity in discovery realizations, and reveal mismanagement of windfalls and adjustment costs after disappointment as two faces of the Resource Curse.  </font>
+<br/>
 
 **Quantifying the Effects of Energy Land-Use Changes on Bird Populations and Biodiversity** <br/>  (_R&R at Environmental Science and Technology_) <br/> 
 [Working Paper](/files/Katovich_EnergyLandUses_and_Birds.pdf){:target="_blank"}
