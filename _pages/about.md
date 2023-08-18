@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 
-Welcome! I am a Postdoctoral Scholar in the [Institute of Economics and Econometrics](https://www.unige.ch/gsem/en/research/institutes/iee/) at the University of Geneva. 
+Welcome! I am a Postdoctoral Scholar in the [Institute of Economics and Econometrics](https://www.unige.ch/gsem/en/research/institutes/iee/) at the University of Geneva. I am participating in the 2023-2024 Job Market.  
 <br/>
 <br/>
 
