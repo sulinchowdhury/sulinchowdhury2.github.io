@@ -10,7 +10,7 @@ author_profile: false
 
 <img align="left" width="320" height="340" src="/files/earnings_pic2.PNG"> <font size="-1.2"> 
   <br/>
-Sectoral expansions and contractions require labor reallocation between declining and booming sectors. Which types of workers gain and lose during these transitions? Using linked employer-employee panel data from Brazil spanning a boom-bust cycle in its oil and gas sector, we find that timing of labor market entry is critical. Only highly educated workers hired at the onset of a boom reap significant earnings and employment benefits. Low-education workers and later entrants experience earnings and employment penalties, reflecting a last-in, first-out pattern. We show the boom induced rapid growth in sector-specific education and a mistimed glut of specialized graduates, dissipating earnings.  </font>
+Sectoral expansions and contractions require labor reallocation between declining and booming sectors. Which types of workers gain and lose during these transitions? Using linked employer-employee panel data from Brazil spanning a full boom-bust cycle in its oil sector, we find that timing of labor market entry is critical. Only highly educated workers hired at the onset of a boom reap significant earnings and employment benefits. Low-education workers and later entrants experience earnings and employment penalties, reflecting a last-in, first-out pattern. Skilled professional occupations insulate high-education early entrants during downturns, while a boom in sector-specific education erodes earnings of later entrants.  </font>
 <br/><br/>
 
 <br/>
