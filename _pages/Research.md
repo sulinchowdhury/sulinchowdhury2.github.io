@@ -31,6 +31,7 @@ author_profile: false
 <font size="-1">Shale oil and gas production and wind energy generation both expanded rapidly across the United States between 2000-2020, raising concerns over impacts on wildlife. I combine longitudinal micro-data from the National Audubon Society’s Christmas Bird Count with geolocated registries of all wind turbines and shale wells constructed during this period to estimate the effects of these energy land-use changes on bird populations and biodiversity, which are key bellwethers of ecosystem health. Results show that the onset of shale oil and gas production reduces subsequent bird population counts by 16% -- or 4.25 birds per well drilled -- even after adjusting for location and year fixed effects, weather, and counting effort. Wind turbines do not have any measurable impact on bird counts. Negative effects of shale are not driven by changes in human population, and are larger when wells are drilled within important bird habitats. </font>
 <br/>
 </details>
+<br/>
 
 # **Work in Progress**<br/>
 
@@ -41,7 +42,6 @@ Funded by [STEG Small Research Grant](https://steg.cepr.org/projects/can-natural
 <br/>
 </details> 
 
-<br/>
 **Human Capital and Local Spillovers Across the Mining Lifecycle** <br/> (_with [Steven Poehlekke](https://sites.google.com/site/stevenpoelhekke/) and Fabio Maciel_)
 
 **Oil Production under Subsidies: Evidence from the US Royalty Relief Program** <br/> (_with [Julien Daubanes](https://www.jxdaubanes.com/), [Saraly Andrade de Sa](https://www.unige.ch/gsem/en/research/faculty/fellows/saraly-andrade-de-sa), [Diego Cardoso](https://www.diegoscardoso.com/), and Pritam Saha_)
@@ -53,7 +53,6 @@ Funded by [STEG Small Research Grant](https://steg.cepr.org/projects/can-natural
 **Sustainability and Quality-Upgrading in Cacao Supply Chains: Experimental Evidence from Ghana** <br/> (_with [Salvatore di Falco](https://sdifalco.weebly.com/) and Utsoree Das_) Funded by [Horizons Europe "Transformative Pathways" Project](https://transpath.eu/) <br/>
 
 **Pipelines, Crime, and Local Development in Mexico** <br/> (_with [Itzel de Haro Lopez](https://itzeldeharo.com/)_) 
-
 
 
 <br/>
