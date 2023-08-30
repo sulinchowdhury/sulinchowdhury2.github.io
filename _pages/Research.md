@@ -4,7 +4,7 @@ title: ""
 permalink: /Research/
 author_profile: false
 ---
-# **Working Papers**<br/> 
+**Working Papers**<br/> 
 
 **Does Local Politics Drive Tropical Land-Use Change? Property-Level Evidence from the Amazon** <br/> (_with [Fanny Moffette](https://fannymoffette.com/)_) (_R&R at The Economic Journal_) <br/> [Working Paper](/files/Katovich_Moffette_Manuscript.pdf){:target="_blank"} &nbsp; [Slides](/files/Katovich_Moffette_Slides_EAERE2023.pdf){:target="_blank"} <br/>
 <details><summary>Click for Abstract</summary>
@@ -32,7 +32,7 @@ author_profile: false
 <br/>
 </details>
 
-# **Work in Progress**<br/>
+**Work in Progress**<br/>
 
 **Can Natural Resources Promote Industrialization? Firms, Competition, and Spillovers from an Industrial Policy** <br/>
 Funded by [STEG Small Research Grant](https://steg.cepr.org/projects/can-natural-resources-promote-industrialisation-firms-competition-and-spillovers) <br/>
@@ -58,7 +58,7 @@ Funded by [STEG Small Research Grant](https://steg.cepr.org/projects/can-natural
 
 
 <br/>
-# **Peer-Reviewed Publications**<br/>
+**Peer-Reviewed Publications**<br/>
 
 **The Relation Between Labor Productivity and Wages in Brazil: A Sectoral Analysis** <br/>
 Erik S. Katovich and [Alexandre Gori Maia](https://www4.eco.unicamp.br/docentes/gori/)<br/>
