@@ -52,8 +52,12 @@ Funded by [STEG Small Research Grant](https://steg.cepr.org/projects/can-natural
 
 **Sustainability and Quality-Upgrading in Cacao Supply Chains: Experimental Evidence from Ghana** <br/> (_with [Salvatore di Falco](https://sdifalco.weebly.com/) and Utsoree Das_) Funded by [Horizons Europe "Transformative Pathways" Project](https://transpath.eu/) <br/>
 
-**Pipelines, Crime, and Local Development in Mexico** <br/> (_with [Itzel de Haro Lopez](https://itzeldeharo.com/)_) 
-
+**Pipelines, Crime, and Local Development in Mexico** <br/> (_with [Itzel de Haro Lopez](https://itzeldeharo.com/)_)<br/> 
+<details><summary>Click for Abstract</summary>
+<font size="-1">We combine geospatial data on the presence of fuel and LPG infrastructure with longitudinal data on crime and cartel presence to estimate the effects of increased enforcement on local levels of crime and violence. We find that a government crackdown on thefts from fuel pipelines led to a substitution in cartel activity and violence toward less-policed liquid petroleum gas pipelines, as well as spillovers of violence into municipalities bordering fuel pipeline locations. Furthermore, while the crackdown achieved its immediate aim of reducing fuel pipeline thefts, it failed to reduce cartel presence in pipeline municipalities.</font>
+<br/>
+</details> 
+ 
 
 <br/>
 # **Peer-Reviewed Publications**<br/>
