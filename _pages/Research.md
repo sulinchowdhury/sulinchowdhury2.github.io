@@ -25,9 +25,9 @@ author_profile: false
 </details>
 
 **Quantifying the Effects of Energy Infrastructure on Bird Populations and Biodiversity** <br/>  (_R&R at Environmental Science and Technology_) <br/> 
-[Working Paper](/files/Katovich_EnergyLandUses_and_Birds.pdf){:target="_blank"}
+[Working Paper](/files/Katovich_Birds_and_Energy_Infrastructure.pdf){:target="_blank"}
 <details><summary>Click for Abstract</summary>
-<font size="-1">Shale oil and gas production and wind energy generation both expanded rapidly across the United States between 2000-2020, raising concerns over impacts on wildlife. I combine longitudinal micro-data from the National Audubon Society’s Christmas Bird Count with geolocated registries of all wind turbines and shale wells constructed during this period to estimate the effects of these energy land-use changes on bird populations and biodiversity, which are key bellwethers of ecosystem health. Results show that the onset of shale oil and gas production reduces subsequent bird population counts by 16% -- or 4.25 birds per well drilled -- even after adjusting for location and year fixed effects, weather, and counting effort. Wind turbines do not have any measurable impact on bird counts. Negative effects of shale are not driven by changes in human population, and are larger when wells are drilled within important bird habitats. </font>
+<font size="-1">Shale oil and gas production and wind energy generation both expanded rapidly across the United States between 2000-2020, raising concerns over impacts on wildlife. I combine longitudinal micro-data from the National Audubon Society’s Christmas Bird Count with geolocated registries of all wind turbines and shale wells constructed in the contiguous US during this period to estimate the causal effects of these contrasting types of energy infrastructure on bird populations and biodiversity – key bellwethers of ecosystem health. Results show that the onset of shale oil and gas production reduces subsequent bird population counts by 15%, even after adjusting for location and year fixed effects, weather, counting effort, and anthropic land-use changes. Wind turbines do not have any measurable impact on bird counts. Negative effects of shale are larger when wells are drilled within important bird habitats. </font>
 <br/>
 </details>
 <br/>
