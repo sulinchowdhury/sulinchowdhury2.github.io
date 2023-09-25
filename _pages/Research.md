@@ -47,7 +47,7 @@ Funded by [STEG Small Research Grant](https://steg.cepr.org/projects/can-natural
 
 **How Do Firms Adapt to International Sanctions? Field-Level Evidence from the Oil Industry**
 
-**Local Content Policies and Reorganization in the Global Mining Industry** <br/> (_with [Jonah Rexer](https://www.jonahrexer.com/) and [Diego Martin](https://sites.google.com/view/diegoamartin/home)_)
+**Local Content Policies and Reorganization in the Global Mining Industry** <br/> (_with [Jonah Rexer](https://www.jonahrexer.com/)_)
 
 **Sustainability and Quality-Upgrading in Cacao Supply Chains: Experimental Evidence from Ghana** <br/> (_with [Salvatore di Falco](https://sdifalco.weebly.com/) and Utsoree Das_) Funded by [Horizons Europe "Transformative Pathways" Project](https://transpath.eu/) <br/>
 
