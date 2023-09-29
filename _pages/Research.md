@@ -41,6 +41,12 @@ Funded by [STEG Small Research Grant](https://steg.cepr.org/projects/can-natural
 <br/>
 </details> 
 
+**Pipelines, Crime, and Local Development in Mexico** <br/> (_with [Itzel de Haro Lopez](https://itzeldeharo.com/)_)<br/> 
+<details><summary>Click for Abstract</summary>
+<font size="-1"> Organized criminal groups in Mexico generate significant revenues through thefts of refined oil and gas products from pipelines. This paper measures the direct and spillover effects of the Mexican government's campaign to crack down on fuel thefts in 2019. We combine geospatial data on the presence of fuel and liquid petroleum gas (LPG) infrastructure with longitudinal data on crime and cartel presence to estimate the effects of increased enforcement on local levels of crime and violence. We find that a government crackdown on thefts from fuel pipelines led to a substitution in cartel activity and violence toward less-policed LPG pipelines, as well as spillovers of violence into municipalities bordering fuel pipeline locations. Furthermore, while the crackdown achieved its immediate aim of reducing fuel pipeline thefts, it failed to reduce cartel presence in pipeline municipalities.</font>
+<br/>
+</details> 
+
 **Human Capital and Local Spillovers Across the Mining Lifecycle** <br/> (_with [Steven Poehlekke](https://sites.google.com/site/stevenpoelhekke/) and Fabio Maciel_)
 
 **Oil Production under Subsidies: Evidence from the US Royalty Relief Program** <br/> (_with [Julien Daubanes](https://www.jxdaubanes.com/), [Diego Cardoso](https://www.diegoscardoso.com/), and Pritam Saha_)
@@ -50,12 +56,6 @@ Funded by [STEG Small Research Grant](https://steg.cepr.org/projects/can-natural
 **Local Content Policies and Reorganization in the Global Mining Industry** <br/> (_with [Jonah Rexer](https://www.jonahrexer.com/)_)
 
 **Sustainability and Quality-Upgrading in Cacao Supply Chains: Experimental Evidence from Ghana** <br/> (_with [Salvatore di Falco](https://sdifalco.weebly.com/) and Utsoree Das_) Funded by [Horizons Europe "Transformative Pathways" Project](https://transpath.eu/) <br/>
-
-**Pipelines, Crime, and Local Development in Mexico** <br/> (_with [Itzel de Haro Lopez](https://itzeldeharo.com/)_)<br/> 
-<details><summary>Click for Abstract</summary>
-<font size="-1"> Organized criminal groups in Mexico generate significant revenues through thefts of refined oil and gas products from pipelines. This paper measures the direct and spillover effects of the Mexican government's campaign to crack down on fuel thefts in 2019. We combine geospatial data on the presence of fuel and liquid petroleum gas (LPG) infrastructure with longitudinal data on crime and cartel presence to estimate the effects of increased enforcement on local levels of crime and violence. We find that a government crackdown on thefts from fuel pipelines led to a substitution in cartel activity and violence toward less-policed LPG pipelines, as well as spillovers of violence into municipalities bordering fuel pipeline locations. Furthermore, while the crackdown achieved its immediate aim of reducing fuel pipeline thefts, it failed to reduce cartel presence in pipeline municipalities.</font>
-<br/>
-</details> 
  
 
 <br/>
