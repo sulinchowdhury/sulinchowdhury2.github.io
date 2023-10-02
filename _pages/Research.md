@@ -47,7 +47,7 @@ Funded by [STEG Small Research Grant](https://steg.cepr.org/projects/can-natural
 <br/>
 </details> 
 
-**Human Capital and Local Spillovers Across the Mining Lifecycle** <br/> (_with [Steven Poehlekke](https://sites.google.com/site/stevenpoelhekke/) and Fabio Maciel_)
+**Human Capital and Local Spillovers Across the Mining Lifecycle** <br/> (_with [Steven Poelhekke](https://sites.google.com/site/stevenpoelhekke/) and Fabio Maciel_)
 
 **Oil Production under Subsidies: Evidence from the US Royalty Relief Program** <br/> (_with [Julien Daubanes](https://www.jxdaubanes.com/), [Diego Cardoso](https://www.diegoscardoso.com/), and Pritam Saha_)
 
