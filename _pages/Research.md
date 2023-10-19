@@ -12,7 +12,7 @@ author_profile: false
 <br/>
 </details>
 
-**Winning and Losing the Resource Lottery: Governance after Uncertain Oil Discoveries** <br/> (_R&R at the Journal of Development Economics_) <br/>
+**Winning and Losing the Resource Lottery: Governance after Uncertain Oil Discoveries** <br/> (_Accepted at the Journal of Development Economics_) <br/>
 [Working Paper](/files/Katovich_Winning_and_Losing_the_Resource_Lottery_Governance_after_Uncertain_Oil_Discoveries.pdf){:target="_blank"} &nbsp; [Slides](/files/Katovich_Winning_the_Resource_Lottery_Slides.pdf){:target="_blank"} &nbsp; [World Bank Development Impact Blog](https://blogs.worldbank.org/impactevaluations/governing-rocky-beginnings-resource-boom-how-do-local-governments-respond-oil) 
 <details><summary>Click for Abstract</summary>
 <font size="-1">Natural resource discoveries are often followed by delays and uncertain production outcomes, creating challenges for governments that anticipate resource revenues. I leverage exogenous subnational variation in offshore oil discoveries in Brazil to identify dynamic effects of discovery news and revenue shocks on local public finances, public goods provision, and politics. Municipalities where discoveries are realized enjoy significant growth in revenues and spending, but fail to improve public goods provision or stimulate economic activity. Municipalities that experience discovery announcements but never receive windfalls suffer long-term declines in revenues, investment, and public goods provision relative to never-treated controls. I show that electoral responses underlie these dynamics: discovery announcements draw less-educated
