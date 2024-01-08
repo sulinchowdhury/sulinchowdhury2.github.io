@@ -41,7 +41,7 @@ author_profile: false
 <br/>
 </details> 
 
-**Can Natural Resources Promote Industrialization? Firm-Level Effects of a Local Content Policy in Brazi** <br/>
+**Can Natural Resources Promote Industrialization? Firm-Level Effects of a Local Content Policy in Brazil** <br/>
 (_with Fabio Maciel_) Funded by [STEG Small Research Grant](https://steg.cepr.org/projects/can-natural-resources-promote-industrialisation-firms-competition-and-spillovers)
 <details><summary>Click for Abstract</summary>
 <font size="-1">Industrial policies are hotly debated, but empirical evidence of their efficacy and underlying mechanisms is thin. I evaluate a common industrial policy–a local content requirement (LCR)–which requires multinational firms to source a percentage of their inputs from local suppliers. Using firm-level panel data from Brazil, I measure whether an LCR for the oil sector increased manufacturing firm growth, innovation, and productivity among upstream input-suppliers, or instead led to rent-seeking and inefficiencies. Competition is a primary mechanism underlying successful industrial policies. I measure whether targeted firms in more competitive subsectors exhibit higher productivity growth relative to firms in less competitive subsectors after introduction of the policy. Another justification of industrial policies is their potential to create positive spillovers. By measuring supply-chain linkages and distance between targeted and non-targeted firms, I estimate spillover effects of the LCR on the broader manufacturing sector. Finally, I leverage data on campaign donations made by LCR beneficiary firms and firm owners to explore the role of special interest politics in sustaining the LCR.</font>
