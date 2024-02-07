@@ -58,7 +58,7 @@ Media Coverage: &nbsp; [The Economist](https://www.economist.com/science-and-tec
 
 **Human Capital and Local Spillovers Across the Mining Lifecycle** <br/> (_with [Steven Poelhekke](https://sites.google.com/site/stevenpoelhekke/) and Fabio Maciel_)
 
-**How Do Firms Adapt to International Sanctions? Field-Level Evidence from the Oil Industry**
+**How Do Multinational Firms Adapt to Sanctions? Field-Level Evidence from the Oil Industry**
 
 **Local Content Policies and Reorganization in the Global Mining Industry** <br/> (_with [Jonah Rexer](https://www.jonahrexer.com/)_)
 
