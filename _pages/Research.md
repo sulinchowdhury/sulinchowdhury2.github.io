@@ -50,7 +50,7 @@ Media Coverage: &nbsp; [The Economist](https://www.economist.com/science-and-tec
 <br/>
 </details> 
 
-**Pipelines, Crime, and Local Development in Mexico** <br/> (_with [Itzel de Haro Lopez](https://itzeldeharo.com/)_)<br/> 
+**Pipelines and Crime: Unintended Consequences of Mexico’s Crackdown on Fuel Theft** <br/> (_with [Itzel de Haro Lopez](https://itzeldeharo.com/)_)<br/> 
 <details><summary>Click for Abstract</summary>
 <font size="-1"> Organized criminal groups in Mexico generate significant revenues through thefts of refined oil and gas products from pipelines. This paper measures the direct and spillover effects of the Mexican government's campaign to crack down on fuel thefts in 2019. We combine geospatial data on the presence of fuel and liquid petroleum gas (LPG) infrastructure with longitudinal data on crime and cartel presence to estimate the effects of increased enforcement on local levels of crime and violence. We find that a government crackdown on thefts from fuel pipelines led to a substitution in cartel activity and violence toward less-policed LPG pipelines, as well as spillovers of violence into municipalities bordering fuel pipeline locations. Furthermore, while the crackdown achieved its immediate aim of reducing fuel pipeline thefts, it failed to reduce cartel presence in pipeline municipalities.</font>
 <br/>
