@@ -62,7 +62,7 @@ Applied Economic Perspectives and Policy, Vol. 39(2), pp. 286-312 (2017)<br/>
 <font size="-1"> Organized criminal groups in Mexico obtain significant revenues through theft of refined oil products from pipelines. We show that a military crackdown on oil pipeline theft in 2019 prompted criminal groups to diversify into gas pipeline theft, a more technologically challenging and dangerous activity. This adaptive response to enforcement increased homicide rates by 18\% and active cartels by 17\% in municipalities hosting gas pipeline infrastructure, with effects concentrated in places near oil pipelines --where spatial substitution was easiest. Diversification into gas theft was driven most strongly by cartels previously specialized in oil theft. Findings highlight the pitfalls of combating organized crime through crackdowns, especially in the presence of opportunities for appropriation created by energy infrastructure. </font>
 <br/>
 </details> 
-
+<br/>
 
 # **Work in Progress**<br/>
 
