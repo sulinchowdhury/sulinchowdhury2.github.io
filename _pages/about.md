@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 
-Welcome! I am a Postdoctoral Scholar in the [Institute of Economics and Econometrics](https://www.unige.ch/gsem/en/research/institutes/iee/) at the University of Geneva.
+Welcome! I am a Postdoctoral Scholar in the [Institute of Economics and Econometrics](https://www.unige.ch/gsem/en/research/institutes/iee/) at the University of Geneva. I will join the [University of Connecticut](https://are.uconn.edu/) as an Assistant Professor of Environmental and Resource Economics in Fall 2024. 
 <br/>
 
 My research focuses on environmental and resource economics, development economics, and political economy. I use econometric and geospatial tools to study natural resource governance and the effects of resource booms and energy transitions on governments, firms, workers, and the environment.  <br/>
