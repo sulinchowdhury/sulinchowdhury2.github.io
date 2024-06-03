@@ -7,7 +7,6 @@ author_profile: false
 # **Peer-Reviewed Publications**<br/> 
 
 **Winning and Losing the Resource Lottery: Governance after Uncertain Oil Discoveries** <br/> 
-Erik Katovich <br/>
 Journal of Development Economics, Vol. 166 (2024)<br/>
 [Published Version](https://www.sciencedirect.com/science/article/pii/S0304387823001608?dgcid=SSRN_redirect_SD&ssrnid=4359168){:target="_blank"} &nbsp; [Slides](/files/Katovich_Winning_the_Resource_Lottery_Slides.pdf){:target="_blank"} &nbsp; [Replication Package](https://zenodo.org/records/10688029){:target="_blank"} 
  <br/>
@@ -18,7 +17,6 @@ Journal of Development Economics, Vol. 166 (2024)<br/>
 </details>
 
 **Quantifying the Effects of Energy Infrastructure on Bird Populations and Biodiversity** <br/>  
-Erik Katovich<br/> 
 Environmental Science and Technology, Vol. 58, No. 1, pp. 323–332 (2024)<br/> 
 [Published Version](https://pubs.acs.org/doi/10.1021/acs.est.3c03899){:target="_blank"} &nbsp; [Open Access Pre-Print](/files/Katovich_Birds_and_Energy_Infrastructure_PrePrint.pdf){:target="_blank"} &nbsp; [Replication Package](https://github.com/ekatovich/Birds_and_Energy_Infrastructure)
 <br/> 
@@ -30,7 +28,7 @@ Media Coverage: &nbsp; [The Economist](https://www.economist.com/science-and-tec
 </details>
 
 **The Relation Between Labor Productivity and Wages in Brazil: A Sectoral Analysis** <br/>
-Erik Katovich and [Alexandre Gori Maia](https://www4.eco.unicamp.br/docentes/gori/)<br/>
+(_with [Alexandre Gori Maia](https://www4.eco.unicamp.br/docentes/gori/))<br/>
 Nova Economia, Vol. 28, No. 1, pp. 7-38 (2018)<br/>
 [PDF](/files/Katovich_Maia_NovaEconomia.pdf){:target="_blank"} &nbsp; [Published Version](https://doi.org/10.1590/0103-6351/3943){:target="_blank"}
 <details><summary>Click for Abstract</summary>
@@ -39,7 +37,7 @@ Nova Economia, Vol. 28, No. 1, pp. 7-38 (2018)<br/>
 </details> 
 
 **Are GMO Policies "Trade Related"? Empirical Analysis of Latin America** <br/>
-[Pamela Smith](https://www.apec.umn.edu/people/pamela-smith) and Erik Katovich<br/>
+(_with [Pamela Smith](https://www.apec.umn.edu/people/pamela-smith))<br/>
 Applied Economic Perspectives and Policy, Vol. 39, No. 2, pp. 286-312 (2017)<br/>
 [Published Version](https://doi.org/10.1093/aepp/ppw021){:target="_blank"}
 <details><summary>Click for Abstract</summary>
