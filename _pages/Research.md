@@ -16,9 +16,7 @@ Journal of Development Economics, Vol. 166 (2024)<br/>
 <font size="-1">Natural resource discoveries are often followed by delays and uncertain production outcomes, creating challenges for governments that anticipate resource revenues. I leverage exogenous subnational variation in offshore oil discoveries in Brazil to identify dynamic effects of discovery news and revenue shocks on local public finances, public goods provision, and politics. Municipalities where discoveries are realized enjoy significant growth in revenues and spending, but fail to improve public goods provision or stimulate economic activity. Municipalities that experience discovery announcements but never receive windfalls suffer long-term declines in revenues, investment, and public goods provision relative to never-treated controls. I show that electoral responses underlie these dynamics: discovery announcements draw less-educated candidates into local politics, and shortfalls between anticipated and realized oil revenues increase political turnover. Findings highlight discovery uncertainty as a fundamental resource governance challenge, and reveal mismanagement of windfalls and adjustment costs after disappointment as two faces of the Resource Curse.</font>
  <br/>
 </details>
- <br/>
 
- 
 **Quantifying the Effects of Energy Infrastructure on Bird Populations and Biodiversity** <br/>  
 Erik Katovich<br/> 
 Environmental Science and Technology, Vol. 58, No. 1, pp. 323–332 (2024)<br/> 
@@ -30,7 +28,6 @@ Media Coverage: &nbsp; [The Economist](https://www.economist.com/science-and-tec
 <font size="-1">Shale oil and gas production and wind energy generation both expanded rapidly across the United States between 2000-2020, raising concerns over impacts on wildlife. I combine longitudinal micro-data from the National Audubon Society’s Christmas Bird Count with geolocated registries of all wind turbines and shale wells constructed in the contiguous US during this period to estimate the causal effects of these contrasting types of energy infrastructure on bird populations and biodiversity – key bellwethers of ecosystem health. Results show that the onset of shale oil and gas production reduces subsequent bird population counts by 15%, even after adjusting for location and year fixed effects, weather, counting effort, and anthropic land-use changes. Wind turbines do not have any measurable impact on bird counts. Negative effects of shale are larger when wells are drilled within important bird habitats. </font>
 <br/>
 </details>
-<br/>
 
 **The Relation Between Labor Productivity and Wages in Brazil: A Sectoral Analysis** <br/>
 Erik Katovich and [Alexandre Gori Maia](https://www4.eco.unicamp.br/docentes/gori/)<br/>
