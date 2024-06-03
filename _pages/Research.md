@@ -28,7 +28,7 @@ Media Coverage: &nbsp; [The Economist](https://www.economist.com/science-and-tec
 </details>
 
 **The Relation Between Labor Productivity and Wages in Brazil: A Sectoral Analysis** <br/>
-(_with [Alexandre Gori Maia](https://www4.eco.unicamp.br/docentes/gori/))<br/>
+(_with [Alexandre Gori Maia](https://www4.eco.unicamp.br/docentes/gori/)_)<br/>
 Nova Economia, Vol. 28(1), pp. 7-38 (2018)<br/>
 [PDF](/files/Katovich_Maia_NovaEconomia.pdf){:target="_blank"} &nbsp; [Published Version](https://doi.org/10.1590/0103-6351/3943){:target="_blank"}
 <details><summary>Click for Abstract</summary>
@@ -37,7 +37,7 @@ Nova Economia, Vol. 28(1), pp. 7-38 (2018)<br/>
 </details> 
 
 **Are GMO Policies "Trade Related"? Empirical Analysis of Latin America** <br/>
-(_with [Pamela Smith](https://www.apec.umn.edu/people/pamela-smith))<br/>
+(_with [Pamela Smith](https://www.apec.umn.edu/people/pamela-smith)_)<br/>
 Applied Economic Perspectives and Policy, Vol. 39(2), pp. 286-312 (2017)<br/>
 [Published Version](https://doi.org/10.1093/aepp/ppw021){:target="_blank"}
 <details><summary>Click for Abstract</summary>
