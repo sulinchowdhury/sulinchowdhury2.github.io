@@ -16,7 +16,9 @@ Journal of Development Economics, Vol. 166 (2024)<br/>
 <font size="-1">Natural resource discoveries are often followed by delays and uncertain production outcomes, creating challenges for governments that anticipate resource revenues. I leverage exogenous subnational variation in offshore oil discoveries in Brazil to identify dynamic effects of discovery news and revenue shocks on local public finances, public goods provision, and politics. Municipalities where discoveries are realized enjoy significant growth in revenues and spending, but fail to improve public goods provision or stimulate economic activity. Municipalities that experience discovery announcements but never receive windfalls suffer long-term declines in revenues, investment, and public goods provision relative to never-treated controls. I show that electoral responses underlie these dynamics: discovery announcements draw less-educated candidates into local politics, and shortfalls between anticipated and realized oil revenues increase political turnover. Findings highlight discovery uncertainty as a fundamental resource governance challenge, and reveal mismanagement of windfalls and adjustment costs after disappointment as two faces of the Resource Curse.</font>
  <br/>
 </details>
+ <br/>
 
+ 
 **Quantifying the Effects of Energy Infrastructure on Bird Populations and Biodiversity** <br/>  
 Erik Katovich<br/> 
 Environmental Science and Technology, Vol. 58, No. 1, pp. 323–332 (2024)<br/> 
