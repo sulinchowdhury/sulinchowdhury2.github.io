@@ -16,7 +16,7 @@ Journal of Development Economics, Vol. 166 (2024)<br/>
  <br/>
 </details>
 
-**Quantifying the Effects of Energy Infrastructure on Bird Populations and Biodiversity** <br/>  
+**Quantifying the Effects of Energy Infrastructure on Bird Populations and Biodiversity**  
 Environmental Science and Technology, Vol. 58(1), pp. 323–332 (2024)<br/> 
 [Published Version](https://pubs.acs.org/doi/10.1021/acs.est.3c03899){:target="_blank"} &nbsp; [Open Access Pre-Print](/files/Katovich_Birds_and_Energy_Infrastructure_PrePrint.pdf){:target="_blank"} &nbsp; [Replication Package](https://github.com/ekatovich/Birds_and_Energy_Infrastructure)
 <br/> 
