@@ -4,7 +4,7 @@ title: ""
 permalink: /Research/
 author_profile: false
 ---
-# **Peer-Reviewed Publications**<br/> 
+# **Publications**<br/> 
 
 **Winning and Losing the Resource Lottery: Governance after Uncertain Oil Discoveries** <br/> 
 Journal of Development Economics, Vol. 166 (2024)<br/>
@@ -79,13 +79,13 @@ Applied Economic Perspectives and Policy, Vol. 39(2), pp. 286-312 (2017)<br/>
 <br/>
 </details> 
 
+**Is There a “Local Advantage” in the Global Mining Industry?** <br/> (_with [Jonah Rexer](https://www.jonahrexer.com/) and [Utsoree Das](https://www.unige.ch/gsem/en/research/institutes/iee/team/phd/utsoree-das/)_)
+
 **Human Capital and Local Spillovers Across the Mining Lifecycle** <br/> (_with [Steven Poelhekke](https://sites.google.com/site/stevenpoelhekke/) and Fabio Maciel_)
 
 **Dynamic Adaptation to Sanctions: Evidence from Russian Oil Fields**
 
-**Is There a “Local Advantage” in the Global Mining Industry?** <br/> (_with [Jonah Rexer](https://www.jonahrexer.com/)_)
-
-**Sustainability and Quality-Upgrading in Cacao Supply Chains: Experimental Evidence from Ghana** <br/> (_with [Salvatore di Falco](https://sdifalco.weebly.com/) and Utsoree Das_) Funded by [Horizons Europe "Transformative Pathways" Project](https://transpath.eu/) <br/>
+**Sustainability and Quality-Upgrading in Cacao Supply Chains: Experimental Evidence from Ghana** <br/> (_with [Salvatore di Falco](https://sdifalco.weebly.com/) and [Utsoree Das](https://www.unige.ch/gsem/en/research/institutes/iee/team/phd/utsoree-das/)_) Funded by [Horizons Europe "Transformative Pathways" Project](https://transpath.eu/) <br/>
  
 
 
