@@ -5,11 +5,11 @@ excerpt: "Contact me"
 author_profile: true
 ---
 
-Email: erik.katovich@unige.ch
+Email: erik.katovich@uconn.edu
 <br/>
-University of Geneva<br/>
-40 Boulevard du Pont-d’Arve<br/>
-1211 Geneva, Switzerland
+Department of Agricultural and Resource Economics<br/>
+University of Connecticut<br/>
+1376 Storrs Rd, Storrs, CT 06268
 
 
          
