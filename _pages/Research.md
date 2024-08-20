@@ -57,7 +57,7 @@ Applied Economic Perspectives and Policy, Vol. 39(2), pp. 286-312 (2017)<br/>
 <br/>
 </details>
 
-**Explosive Diversification: Organized Crime Adaptation to Mexico’s Crackdown on Fuel Theft** <br/> (_with [Itzel de Haro Lopez](https://itzeldeharo.com/)_)<br/> [Working Paper](/files/DeHaroLopez_Katovich_Pipelines_WorkingPaper.pdf){:target="_blank"}<br/> 
+**Explosive Diversification: Organized Crime Adaptation to Mexico’s Crackdown on Fuel Theft** <br/> (_with [Itzel de Haro Lopez](https://itzeldeharo.com/)_)<br/> [Working Paper](/files/DeHaroLopez_and_Katovich_Pipelines_WorkingPaper.pdf){:target="_blank"}<br/> 
 <details><summary>Click for Abstract</summary>
 <font size="-1"> Organized criminal groups in Mexico obtain substantial revenues through theft of refined fuel products from pipelines. We show that a military crackdown on oil pipeline theft in 2019 prompted criminal groups to diversify into gas pipeline theft, a more technologically challenging and dangerous activity. This adaptive response to enforcement increased cartel presence by 17% and homicide rates by 18% in municipalities hosting gas pipeline infrastructure. Car-
 tel diversification into gas theft was concentrated in places neighboring oil pipelines – where spatial substitution was easiest – and driven most strongly by cartels previously specialized in oil theft. While the crackdown temporarily reduced oil pipeline thefts, it increased local fuel prices and failed to reduce homicides or cartel presence in targeted areas. Findings highlight the pitfalls of combating organized crime through crackdowns, especially in the presence of opportunities for appropriation created by energy infrastructure. </font>
