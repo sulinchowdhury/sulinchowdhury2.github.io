@@ -6,6 +6,11 @@ author_profile: false
 ---
 # **Publications**<br/> 
 
+**Does Local Politics Drive Tropical Land-Use Change? Property-Level Evidence from the Amazon** <br/> (_with [Fanny Moffette](https://fannymoffette.com/)_) (_Conditionally Accepted at The Economic Journal_) <br/> [Working Paper](/files/Katovich_Moffette_Local_Politics_of_Land_Use.pdf){:target="_blank"} &nbsp; [Slides](/files/Katovich_LandUse_90MinuteSlides.pdf){:target="_blank"}
+<details><summary>Click for Abstract</summary><font size="-1">Land conversion to agriculture is a defining environmental challenge for tropical regions. We construct a novel panel dataset of land-use changes on the properties of municipal politicians and campaign donors in the Brazilian Amazon to assess channels through which local politics may drive land conversion. Estimating event studies around close mayoral elections, we find that large landholders significantly increase soy cultivation while the candidate they donated to is in office. This suggests landholders invest in political influence to overcome barriers to agricultural intensification. In turn, mayors who receive landholder donations govern in favor of agriculture – increasing spending on agricultural promotion and distribution of rural credit. While agricultural promotion "returns the favor" for mayors’ donors, it is not precisely targeted. We document large spillovers onto non-donor properties, resulting in increased deforestation and environmental violations. Results reveal how patronage and special interests drive land-use change and deforestation in the Amazon.  </font>
+<br/>
+</details>
+
 **Winning and Losing the Resource Lottery: Governance after Uncertain Oil Discoveries** <br/> 
 Journal of Development Economics, Vol. 166 (2024)<br/>
 [Published Version](https://www.sciencedirect.com/science/article/pii/S0304387823001608?dgcid=SSRN_redirect_SD&ssrnid=4359168){:target="_blank"} &nbsp; [Slides](/files/Katovich_Winning_the_Resource_Lottery_Slides.pdf){:target="_blank"} &nbsp; [Replication Package](https://zenodo.org/records/10688029){:target="_blank"} 
@@ -45,11 +50,6 @@ Applied Economic Perspectives and Policy, Vol. 39(2), pp. 286-312 (2017)<br/>
 </details> <br/>
 
 # **Working Papers**<br/>
-
-**Does Local Politics Drive Tropical Land-Use Change? Property-Level Evidence from the Amazon** <br/> (_with [Fanny Moffette](https://fannymoffette.com/)_) (_R&R at The Economic Journal_) <br/> [Working Paper](/files/Katovich_Moffette_Local_Politics_of_Land_Use.pdf){:target="_blank"} &nbsp; [Slides](/files/Katovich_LandUse_90MinuteSlides.pdf){:target="_blank"}
-<details><summary>Click for Abstract</summary><font size="-1">Land conversion to agriculture is a defining environmental challenge for tropical regions. We construct a novel panel dataset of land-use changes on the properties of municipal politicians and campaign donors in the Brazilian Amazon to assess channels through which local politics may drive land conversion. Estimating event studies around close mayoral elections, we find that large landholders significantly increase soy cultivation while the candidate they donated to is in office. This suggests landholders invest in political influence to overcome barriers to agricultural intensification. In turn, mayors who receive landholder donations govern in favor of agriculture – increasing spending on agricultural promotion and distribution of rural credit. While agricultural promotion "returns the favor" for mayors’ donors, it is not precisely targeted. We document large spillovers onto non-donor properties, resulting in increased deforestation and environmental violations. Results reveal how patronage and special interests drive land-use change and deforestation in the Amazon.  </font>
-<br/>
-</details>
 
 **Timing is Everything: Labor Market Winners and Losers during Boom-Bust Cycles**  <br/> (_with [Dominic Parker](https://aae.wisc.edu/dparker/) and [Steven Poelhekke](https://sites.google.com/site/stevenpoelhekke/)_) (_R&R at JAERE_) <br/> [Working Paper](/files/Katovich_Parker_Poelhekke_TimingIsEverything.pdf){:target="_blank"} &nbsp; [CEPR Discussion Paper](https://cepr.org/publications/dp17887) &nbsp; [Slides (English)](/files/Katovich_Timing_is_Everything_Slides.pdf){:target="_blank"} &nbsp; [Slides (Portuguese)](/files/Katovich_Ipea_Slides.pdf){:target="_blank"} &nbsp; [Ipea Webinar (Portuguese)](https://www.youtube.com/watch?v=oqSdEmHB6YA){:target="_blank"}
 <details><summary>Click for Abstract</summary>
